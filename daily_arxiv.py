@@ -7,6 +7,7 @@ import logging
 import argparse
 import datetime
 import requests
+from typing import Dict
 
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
@@ -16,7 +17,7 @@ base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 github_url = "https://api.github.com/search/repositories"
 arxiv_url = "http://arxiv.org/"
 
-def load_config(config_file:str) -> dict:
+def load_config(config_file: str) -> dict:
     '''
     config_file: input config file path
     return: a dict of configuration
@@ -61,7 +62,7 @@ def sort_papers(papers):
     for key in keys:
         output[key] = papers[key]
     return output
-import requests
+
 
 def get_code_link(qword:str) -> str:
     """
@@ -93,14 +94,16 @@ def get_daily_papers(topic,query="Prompt Injection", max_results=2):
     # output
     content = dict()
     content_to_web = dict()
+
+    # Construct the default API client.
+    client = arxiv.Client()
     search_engine = arxiv.Search(
         query = query,
         max_results = max_results,
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
 
-    for result in search_engine.results():
-
+    for result in client.results(search_engine):
         paper_id            = result.get_short_id()
         paper_title         = result.title
         paper_url           = result.entry_id
@@ -214,11 +217,11 @@ def update_paper_links(filename):
         with open(filename,"w") as f:
             json.dump(json_data,f)
 
-def update_json_file(filename,data_dict):
+def update_json_file(filename: str, data_dict: Dict):
     '''
     daily update json file using data_dict
     '''
-    with open(filename,"r") as f:
+    with open(filename, "r") as f:
         content = f.read()
         if not content:
             m = {}
