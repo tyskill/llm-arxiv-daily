@@ -1,15 +1,16 @@
-title: CV Arxiv Daily
-description: Automatically Update CV Papers Daily using Github Actions (Update Every 8th hours)
+title: LLM Arxiv Daily
+description: Automatically Update LLM Papers Daily using Github Actions (Update Every 8th hours)
 show_downloads: true
 
 github:
-  zip_url: https://github.com/Vincentqyw/cv-arxiv-daily
-  another_url: https://github.com/Vincentqyw/cv-arxiv-daily
+  zip_url: https://github.com/tyskill/llm-arxiv-daily
+  another_url: https://github.com/tyskill/llm-arxiv-daily
 
 ## add remote theme
 remote_theme: jekyll/minima@v2.5.1
 
 # minima:
+# TODO: 这个不改应该没事吧?
 skin: dark
 social_links:
   twitter: AlphaRealcat
