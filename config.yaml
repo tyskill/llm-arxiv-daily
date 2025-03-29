@@ -22,7 +22,7 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-	"Model Security":
-		filters: ["Model Security", "AI Safety", "AI Security"]
-	"Prompt Injection":
-		filters: ["Prompt Injection", "jailbreak"]
+    "Model Security":
+        filters: ["Model Security", "AI Safety", "AI Security"]
+    "Prompt Injection":
+        filters: ["Prompt Injection", "jailbreak"]
