@@ -25,4 +25,4 @@ keywords:
     "Model Security":
         filters: ["Model Security", "AI Safety", "AI Security"]
     "Prompt Injection":
-        filters: ["Prompt Injection", "jailbreak", "system prompt"]
+        filters: ["Prompt Injection", "jailbreak", "prompt leakage"]
