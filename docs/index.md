@@ -2,14 +2,17 @@
 layout: default
 ---
 
-## Updated on 2025.03.31
+## Updated on 2025.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Security
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-26**|**Musical Chairs: A new benchmark to evaluate AI**|Chris Santos-Lang et.al.|[2503.20986](http://arxiv.org/abs/2503.20986)|null|
+|**2025-03-28**|**A Framework for Cryptographic Verifiability of End-to-End AI Pipelines**|Kar Balan et.al.|[2503.22573](http://arxiv.org/abs/2503.22573)|null|
+|**2025-03-28**|**Effective Automation to Support the Human Infrastructure in AI Red Teaming**|Alice Qian Zhang et.al.|[2503.22116](http://arxiv.org/abs/2503.22116)|null|
+|**2025-03-28**|**Beyond Single-Sentence Prompts: Upgrading Value Alignment Benchmarks with Dialogues and Stories**|Yazhou Zhang et.al.|[2503.22115](http://arxiv.org/abs/2503.22115)|null|
+|**2025-03-31**|**MAD Chairs: A new tool to evaluate AI**|Chris Santos-Lang et.al.|[2503.20986](http://arxiv.org/abs/2503.20986)|null|
 |**2025-03-26**|**The Backfiring Effect of Weak AI Safety Regulation**|Benjamin Laufer et.al.|[2503.20848](http://arxiv.org/abs/2503.20848)|null|
 |**2025-03-26**|**AI Safety in the Eyes of the Downstream Developer: A First Look at Concerns, Practices, and Challenges**|Haoyu Gao et.al.|[2503.19444](http://arxiv.org/abs/2503.19444)|null|
 |**2025-03-18**|**International Agreements on AI Safety: Review and Recommendations for a Conditional AI Safety Treaty**|Rebecca Scholefield et.al.|[2503.18956](http://arxiv.org/abs/2503.18956)|null|

@@ -1,4 +1,4 @@
-## Updated on 2025.03.31
+## Updated on 2025.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,7 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-26**|**Musical Chairs: A new benchmark to evaluate AI**|Chris Santos-Lang et.al.|[2503.20986](http://arxiv.org/abs/2503.20986)|null|
+|**2025-03-28**|**A Framework for Cryptographic Verifiability of End-to-End AI Pipelines**|Kar Balan et.al.|[2503.22573](http://arxiv.org/abs/2503.22573)|null|
+|**2025-03-28**|**Effective Automation to Support the Human Infrastructure in AI Red Teaming**|Alice Qian Zhang et.al.|[2503.22116](http://arxiv.org/abs/2503.22116)|null|
+|**2025-03-28**|**Beyond Single-Sentence Prompts: Upgrading Value Alignment Benchmarks with Dialogues and Stories**|Yazhou Zhang et.al.|[2503.22115](http://arxiv.org/abs/2503.22115)|null|
+|**2025-03-31**|**MAD Chairs: A new tool to evaluate AI**|Chris Santos-Lang et.al.|[2503.20986](http://arxiv.org/abs/2503.20986)|null|
 |**2025-03-26**|**The Backfiring Effect of Weak AI Safety Regulation**|Benjamin Laufer et.al.|[2503.20848](http://arxiv.org/abs/2503.20848)|null|
 |**2025-03-26**|**AI Safety in the Eyes of the Downstream Developer: A First Look at Concerns, Practices, and Challenges**|Haoyu Gao et.al.|[2503.19444](http://arxiv.org/abs/2503.19444)|null|
 |**2025-03-18**|**International Agreements on AI Safety: Review and Recommendations for a Conditional AI Safety Treaty**|Rebecca Scholefield et.al.|[2503.18956](http://arxiv.org/abs/2503.18956)|null|
@@ -24,7 +27,7 @@
 |**2025-03-17**|**ProDiF: Protecting Domain-Invariant Features to Secure Pre-Trained Models Against Extraction**|Tong Zhou et.al.|[2503.13224](http://arxiv.org/abs/2503.13224)|null|
 |**2025-03-17**|**Identifying Cooperative Personalities in Multi-agent Contexts through Personality Steering with Representation Engineering**|Kenneth J. K. Ong et.al.|[2503.12722](http://arxiv.org/abs/2503.12722)|null|
 
-<p align=right>(<a href=#updated-on-20250331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
 
 ## Prompt Injection
 
@@ -41,7 +44,7 @@
 |**2025-03-23**|**Metaphor-based Jailbreaking Attacks on Text-to-Image Models**|Chenyu Zhang et.al.|[2503.17987](http://arxiv.org/abs/2503.17987)|null|
 |**2025-03-23**|**Smoke and Mirrors: Jailbreaking LLM-based Code Generation via Implicit Malicious Prompts**|Sheng Ouyang et.al.|[2503.17953](http://arxiv.org/abs/2503.17953)|null|
 
-<p align=right>(<a href=#updated-on-20250331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
