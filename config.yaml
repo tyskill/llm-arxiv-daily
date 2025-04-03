@@ -26,3 +26,5 @@ keywords:
         filters: ["Model Security", "AI Safety", "AI Security"]
     "Prompt Injection":
         filters: ["Prompt Injection", "jailbreak", "prompt leakage"]
+    "Code Embedding":
+        filters: ["Code Embedding"]
