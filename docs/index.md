@@ -44,7 +44,7 @@ layout: default
 |**2025-03-27**|**Harnessing Chain-of-Thought Metadata for Task Routing and Adversarial Prompt Detection**|Ryan Marinelli et.al.|[2503.21464](http://arxiv.org/abs/2503.21464)|**[link](https://github.com/rymarinelli/number_of_thoughts)**|
 |**2025-03-26**|**Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy**|Joonhyun Jeong et.al.|[2503.20823](http://arxiv.org/abs/2503.20823)|null|
 |**2025-03-26**|**Iterative Prompting with Persuasion Skills in Jailbreaking Large Language Models**|Shih-Wen Ke et.al.|[2503.20320](http://arxiv.org/abs/2503.20320)|null|
-|**2025-03-26**|**sudo rm -rf agentic_security**|Sejin Lee et.al.|[2503.20279](http://arxiv.org/abs/2503.20279)|null|
+|**2025-03-26**|**sudo rm -rf agentic_security**|Sejin Lee et.al.|[2503.20279](http://arxiv.org/abs/2503.20279)|**[link](https://github.com/AIM-Intelligence/SUDO)**|
 |**2025-03-24**|**MIRAGE: Multimodal Immersive Reasoning and Guided Exploration for Red-Team Jailbreak Attacks**|Wenhao You et.al.|[2503.19134](http://arxiv.org/abs/2503.19134)|null|
 |**2025-03-23**|**SRMIR: Shadow Reward Models Based on Introspective Reasoning for LLM Alignment**|Ruoxi Cheng et.al.|[2503.18991](http://arxiv.org/abs/2503.18991)|null|
 |**2025-03-24**|**Defeating Prompt Injections by Design**|Edoardo Debenedetti et.al.|[2503.18813](http://arxiv.org/abs/2503.18813)|null|
