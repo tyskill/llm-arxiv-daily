@@ -28,3 +28,7 @@ keywords:
         filters: ["Prompt Injection", "jailbreak", "prompt leakage", "prompt hacking"]
     "Code Embedding":
         filters: ["Code Embedding"]
+    "Model Context Protocol":
+        filters: ["Model Context Protocol", "\"Security\""]
+    "Supply Chain Attacks":
+        filters: ["Supply Chain", "\"LLM\"", "\"Security\""]
