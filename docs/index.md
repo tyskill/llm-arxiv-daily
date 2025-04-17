@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.04.16
+## Updated on 2025.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Security
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**Secure Transfer Learning: Training Clean Models Against Backdoor in (Both) Pre-trained Encoders and Downstream Datasets**|Yechao Zhang et.al.|[2504.11990](http://arxiv.org/abs/2504.11990)|null|
 |**2025-04-14**|**The Jailbreak Tax: How Useful are Your Jailbreak Outputs?**|Kristina Nikolić et.al.|[2504.10694](http://arxiv.org/abs/2504.10694)|null|
 |**2025-04-14**|**Do We Really Need Curated Malicious Data for Safety Alignment in Multi-modal Large Language Models?**|Yanbo Wang et.al.|[2504.10000](http://arxiv.org/abs/2504.10000)|null|
 |**2025-04-13**|**The Structural Safety Generalization Problem**|Julius Broomfield et.al.|[2504.09712](http://arxiv.org/abs/2504.09712)|null|
@@ -40,11 +41,11 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-15**|**DataSentinel: A Game-Theoretic Detection of Prompt Injection Attacks**|Yupei Liu et.al.|[2504.11358](http://arxiv.org/abs/2504.11358)|null|
-|**2025-04-15**|**Bypassing Prompt Injection and Jailbreak Detection in LLM Guardrails**|William Hackett et.al.|[2504.11168](http://arxiv.org/abs/2504.11168)|null|
+|**2025-04-16**|**Bypassing Prompt Injection and Jailbreak Detection in LLM Guardrails**|William Hackett et.al.|[2504.11168](http://arxiv.org/abs/2504.11168)|null|
 |**2025-04-15**|**Token-Level Constraint Boundary Search for Jailbreaking Text-to-Image Models**|Jiangtao Liu et.al.|[2504.11106](http://arxiv.org/abs/2504.11106)|null|
 |**2025-04-14**|**The Jailbreak Tax: How Useful are Your Jailbreak Outputs?**|Kristina Nikolić et.al.|[2504.10694](http://arxiv.org/abs/2504.10694)|null|
 |**2025-04-14**|**Pixel-SAIL: Single Transformer For Pixel-Grounded Understanding**|Tao Zhang et.al.|[2504.10465](http://arxiv.org/abs/2504.10465)|null|
-|**2025-04-14**|**LLM Unlearning Reveals a Stronger-Than-Expected Coreset Effect in Current Benchmarks**|Soumyadeep Pal et.al.|[2504.10185](http://arxiv.org/abs/2504.10185)|null|
+|**2025-04-16**|**LLM Unlearning Reveals a Stronger-Than-Expected Coreset Effect in Current Benchmarks**|Soumyadeep Pal et.al.|[2504.10185](http://arxiv.org/abs/2504.10185)|null|
 |**2025-04-14**|**RealSafe-R1: Safety-Aligned DeepSeek-R1 without Compromising Reasoning Capability**|Yichi Zhang et.al.|[2504.10081](http://arxiv.org/abs/2504.10081)|null|
 |**2025-04-14**|**StruPhantom: Evolutionary Injection Attacks on Black-Box Tabular Agents Powered by Large Language Models**|Yang Feng et.al.|[2504.09841](http://arxiv.org/abs/2504.09841)|null|
 |**2025-04-13**|**The Structural Safety Generalization Problem**|Julius Broomfield et.al.|[2504.09712](http://arxiv.org/abs/2504.09712)|null|

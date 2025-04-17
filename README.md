@@ -1,4 +1,4 @@
-## Updated on 2025.04.16
+## Updated on 2025.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-16**|**Secure Transfer Learning: Training Clean Models Against Backdoor in (Both) Pre-trained Encoders and Downstream Datasets**|Yechao Zhang et.al.|[2504.11990](http://arxiv.org/abs/2504.11990)|null|
 |**2025-04-14**|**The Jailbreak Tax: How Useful are Your Jailbreak Outputs?**|Kristina Nikolić et.al.|[2504.10694](http://arxiv.org/abs/2504.10694)|null|
 |**2025-04-14**|**Do We Really Need Curated Malicious Data for Safety Alignment in Multi-modal Large Language Models?**|Yanbo Wang et.al.|[2504.10000](http://arxiv.org/abs/2504.10000)|null|
 |**2025-04-13**|**The Structural Safety Generalization Problem**|Julius Broomfield et.al.|[2504.09712](http://arxiv.org/abs/2504.09712)|null|
@@ -42,18 +43,18 @@
 |**2025-03-17**|**ProDiF: Protecting Domain-Invariant Features to Secure Pre-Trained Models Against Extraction**|Tong Zhou et.al.|[2503.13224](http://arxiv.org/abs/2503.13224)|null|
 |**2025-03-17**|**Identifying Cooperative Personalities in Multi-agent Contexts through Personality Steering with Representation Engineering**|Kenneth J. K. Ong et.al.|[2503.12722](http://arxiv.org/abs/2503.12722)|null|
 
-<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
 
 ## Prompt Injection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-04-15**|**DataSentinel: A Game-Theoretic Detection of Prompt Injection Attacks**|Yupei Liu et.al.|[2504.11358](http://arxiv.org/abs/2504.11358)|null|
-|**2025-04-15**|**Bypassing Prompt Injection and Jailbreak Detection in LLM Guardrails**|William Hackett et.al.|[2504.11168](http://arxiv.org/abs/2504.11168)|null|
+|**2025-04-16**|**Bypassing Prompt Injection and Jailbreak Detection in LLM Guardrails**|William Hackett et.al.|[2504.11168](http://arxiv.org/abs/2504.11168)|null|
 |**2025-04-15**|**Token-Level Constraint Boundary Search for Jailbreaking Text-to-Image Models**|Jiangtao Liu et.al.|[2504.11106](http://arxiv.org/abs/2504.11106)|null|
 |**2025-04-14**|**The Jailbreak Tax: How Useful are Your Jailbreak Outputs?**|Kristina Nikolić et.al.|[2504.10694](http://arxiv.org/abs/2504.10694)|null|
 |**2025-04-14**|**Pixel-SAIL: Single Transformer For Pixel-Grounded Understanding**|Tao Zhang et.al.|[2504.10465](http://arxiv.org/abs/2504.10465)|null|
-|**2025-04-14**|**LLM Unlearning Reveals a Stronger-Than-Expected Coreset Effect in Current Benchmarks**|Soumyadeep Pal et.al.|[2504.10185](http://arxiv.org/abs/2504.10185)|null|
+|**2025-04-16**|**LLM Unlearning Reveals a Stronger-Than-Expected Coreset Effect in Current Benchmarks**|Soumyadeep Pal et.al.|[2504.10185](http://arxiv.org/abs/2504.10185)|null|
 |**2025-04-14**|**RealSafe-R1: Safety-Aligned DeepSeek-R1 without Compromising Reasoning Capability**|Yichi Zhang et.al.|[2504.10081](http://arxiv.org/abs/2504.10081)|null|
 |**2025-04-14**|**StruPhantom: Evolutionary Injection Attacks on Black-Box Tabular Agents Powered by Large Language Models**|Yang Feng et.al.|[2504.09841](http://arxiv.org/abs/2504.09841)|null|
 |**2025-04-13**|**The Structural Safety Generalization Problem**|Julius Broomfield et.al.|[2504.09712](http://arxiv.org/abs/2504.09712)|null|
@@ -95,7 +96,7 @@
 |**2025-03-23**|**Metaphor-based Jailbreaking Attacks on Text-to-Image Models**|Chenyu Zhang et.al.|[2503.17987](http://arxiv.org/abs/2503.17987)|null|
 |**2025-03-23**|**Smoke and Mirrors: Jailbreaking LLM-based Code Generation via Implicit Malicious Prompts**|Sheng Ouyang et.al.|[2503.17953](http://arxiv.org/abs/2503.17953)|null|
 
-<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
 
 ## Code Embedding
 
@@ -112,7 +113,7 @@
 |**2025-03-26**|**Intelligent Code Embedding Framework for High-Precision Ransomware Detection via Multimodal Execution Path Analysis**|Levi Gareth et.al.|[2501.15836](http://arxiv.org/abs/2501.15836)|null|
 |**2024-12-18**|**Transducer Tuning: Efficient Model Adaptation for Software Tasks Using Code Property Graphs**|Imam Nur Bani Yusuf et.al.|[2412.13467](http://arxiv.org/abs/2412.13467)|**[link](https://github.com/imamnurby/transducer-tuning)**|
 
-<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
 
 ## Model Context Protocol
 
@@ -123,7 +124,7 @@
 |**2025-04-11**|**MCP Safety Audit: LLMs with the Model Context Protocol Allow Major Security Exploits**|Brandon Radosevich et.al.|[2504.03767](http://arxiv.org/abs/2504.03767)|**[link](https://github.com/johnhalloran321/mcpsafetyscanner)**|
 |**2025-04-06**|**Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions**|Xinyi Hou et.al.|[2503.23278](http://arxiv.org/abs/2503.23278)|null|
 
-<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
 
 ## Supply Chain Attacks
 
@@ -140,7 +141,7 @@
 |**2025-03-30**|**Data Extraction Attacks in Retrieval-Augmented Generation via Backdoors**|Yuefeng Peng et.al.|[2411.01705](http://arxiv.org/abs/2411.01705)|null|
 |**2024-11-03**|**Large Language Model Supply Chain: Open Problems From the Security Perspective**|Qiang Hu et.al.|[2411.01604](http://arxiv.org/abs/2411.01604)|null|
 
-<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
