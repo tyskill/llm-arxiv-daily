@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.19
+## Updated on 2025.04.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Security
@@ -11,9 +11,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-17**|**In Which Areas of Technical AI Safety Could Geopolitical Rivals Cooperate?**|Ben Bucknall et.al.|[2504.12914](http://arxiv.org/abs/2504.12914)|null|
 |**2025-04-16**|**Secure Transfer Learning: Training Clean Models Against Backdoor in (Both) Pre-trained Encoders and Downstream Datasets**|Yechao Zhang et.al.|[2504.11990](http://arxiv.org/abs/2504.11990)|null|
-|**2025-04-14**|**The Jailbreak Tax: How Useful are Your Jailbreak Outputs?**|Kristina Nikolić et.al.|[2504.10694](http://arxiv.org/abs/2504.10694)|null|
+|**2025-04-14**|**The Jailbreak Tax: How Useful are Your Jailbreak Outputs?**|Kristina Nikolić et.al.|[2504.10694](http://arxiv.org/abs/2504.10694)|**[link](https://github.com/ethz-spylab/jailbreak-tax)**|
 |**2025-04-14**|**Do We Really Need Curated Malicious Data for Safety Alignment in Multi-modal Large Language Models?**|Yanbo Wang et.al.|[2504.10000](http://arxiv.org/abs/2504.10000)|null|
-|**2025-04-13**|**The Structural Safety Generalization Problem**|Julius Broomfield et.al.|[2504.09712](http://arxiv.org/abs/2504.09712)|null|
+|**2025-04-13**|**The Structural Safety Generalization Problem**|Julius Broomfield et.al.|[2504.09712](http://arxiv.org/abs/2504.09712)|**[link](https://github.com/juliusbroomfield/the-ssg-problem)**|
 |**2025-04-13**|**Mitigating Many-Shot Jailbreaking**|Christopher M. Ackerman et.al.|[2504.09604](http://arxiv.org/abs/2504.09604)|null|
 |**2025-04-10**|**Geneshift: Impact of different scenario shift on Jailbreaking LLM**|Tianyi Wu et.al.|[2504.08104](http://arxiv.org/abs/2504.08104)|null|
 |**2025-04-10**|**The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search**|Yutaro Yamada et.al.|[2504.08066](http://arxiv.org/abs/2504.08066)|**[link](https://github.com/sakanaai/ai-scientist-v2)**|
@@ -42,12 +42,12 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-17**|**GraphAttack: Exploiting Representational Blindspots in LLM Safety Mechanisms**|Sinan He et.al.|[2504.13052](http://arxiv.org/abs/2504.13052)|null|
-|**2025-04-17**|**ZeroSumEval: Scaling LLM Evaluation with Inter-Model Competition**|Haidar Khan et.al.|[2504.12562](http://arxiv.org/abs/2504.12562)|null|
+|**2025-04-17**|**ZeroSumEval: Scaling LLM Evaluation with Inter-Model Competition**|Haidar Khan et.al.|[2504.12562](http://arxiv.org/abs/2504.12562)|**[link](https://github.com/facebookresearch/zerosumeval)**|
 |**2025-04-14**|**You've Changed: Detecting Modification of Black-Box Large Language Models**|Alden Dima et.al.|[2504.12335](http://arxiv.org/abs/2504.12335)|null|
 |**2025-04-15**|**DataSentinel: A Game-Theoretic Detection of Prompt Injection Attacks**|Yupei Liu et.al.|[2504.11358](http://arxiv.org/abs/2504.11358)|**[link](https://github.com/liu00222/open-prompt-injection)**|
 |**2025-04-16**|**Bypassing Prompt Injection and Jailbreak Detection in LLM Guardrails**|William Hackett et.al.|[2504.11168](http://arxiv.org/abs/2504.11168)|null|
 |**2025-04-15**|**Token-Level Constraint Boundary Search for Jailbreaking Text-to-Image Models**|Jiangtao Liu et.al.|[2504.11106](http://arxiv.org/abs/2504.11106)|null|
-|**2025-04-14**|**The Jailbreak Tax: How Useful are Your Jailbreak Outputs?**|Kristina Nikolić et.al.|[2504.10694](http://arxiv.org/abs/2504.10694)|null|
+|**2025-04-14**|**The Jailbreak Tax: How Useful are Your Jailbreak Outputs?**|Kristina Nikolić et.al.|[2504.10694](http://arxiv.org/abs/2504.10694)|**[link](https://github.com/ethz-spylab/jailbreak-tax)**|
 |**2025-04-14**|**Pixel-SAIL: Single Transformer For Pixel-Grounded Understanding**|Tao Zhang et.al.|[2504.10465](http://arxiv.org/abs/2504.10465)|**[link](https://github.com/magic-research/Sa2VA)**|
 |**2025-04-16**|**LLM Unlearning Reveals a Stronger-Than-Expected Coreset Effect in Current Benchmarks**|Soumyadeep Pal et.al.|[2504.10185](http://arxiv.org/abs/2504.10185)|null|
 |**2025-04-14**|**RealSafe-R1: Safety-Aligned DeepSeek-R1 without Compromising Reasoning Capability**|Yichi Zhang et.al.|[2504.10081](http://arxiv.org/abs/2504.10081)|null|
