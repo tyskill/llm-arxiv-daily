@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.22
+## Updated on 2025.04.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Security
@@ -45,10 +45,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**T2VShield: Model-Agnostic Jailbreak Defense for Text-to-Video Models**|Siyuan Liang et.al.|[2504.15512](http://arxiv.org/abs/2504.15512)|null|
 |**2025-04-21**|**MR. Guard: Multilingual Reasoning Guardrail using Curriculum Learning**|Yahan Yang et.al.|[2504.15241](http://arxiv.org/abs/2504.15241)|null|
 |**2025-04-20**|**Prompt-Hacking: The New p-Hacking?**|Thomas Kosch et.al.|[2504.14571](http://arxiv.org/abs/2504.14571)|null|
 |**2025-04-20**|**LLM-Enabled In-Context Learning for Data Collection Scheduling in UAV-assisted Sensor Networks**|Yousef Emami et.al.|[2504.14556](http://arxiv.org/abs/2504.14556)|null|
-|**2025-04-19**|**Manipulating Multimodal Agents via Cross-Modal Prompt Injection**|Le Wang et.al.|[2504.14348](http://arxiv.org/abs/2504.14348)|null|
+|**2025-04-22**|**Manipulating Multimodal Agents via Cross-Modal Prompt Injection**|Le Wang et.al.|[2504.14348](http://arxiv.org/abs/2504.14348)|null|
 |**2025-04-18**|**DETAM: Defending LLMs Against Jailbreak Attacks via Targeted Attention Modification**|Yu Li et.al.|[2504.13562](http://arxiv.org/abs/2504.13562)|null|
 |**2025-04-15**|**X-Teaming: Multi-Turn Jailbreaks and Defenses with Adaptive Multi-Agents**|Salman Rahman et.al.|[2504.13203](http://arxiv.org/abs/2504.13203)|null|
 |**2025-04-15**|**Concept Enhancement Engineering: A Lightweight and Efficient Robust Defense Against Jailbreak Attacks in Embodied AI**|Jirui Yang et.al.|[2504.13201](http://arxiv.org/abs/2504.13201)|null|
