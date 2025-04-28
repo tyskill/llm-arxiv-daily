@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.04.27
+## Updated on 2025.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Security
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**AI Safety Assurance for Automated Vehicles: A Survey on Research, Standardization, Regulation**|Lars Ullrich et.al.|[2504.18328](http://arxiv.org/abs/2504.18328)|null|
+|**2025-04-25**|**RAG LLMs are Not Safer: A Safety Analysis of Retrieval-Augmented Generation for Large Language Models**|Bang An et.al.|[2504.18041](http://arxiv.org/abs/2504.18041)|null|
 |**2025-04-17**|**Security-First AI: Foundations for Robust and Trustworthy Systems**|Krti Tallam et.al.|[2504.16110](http://arxiv.org/abs/2504.16110)|null|
 |**2025-04-21**|**Safety Co-Option and Compromised National Security: The Self-Fulfilling Prophecy of Weakened AI Risk Thresholds**|Heidy Khlaaf et.al.|[2504.15088](http://arxiv.org/abs/2504.15088)|null|
 |**2025-04-20**|**A Byzantine Fault Tolerance Approach towards AI Safety**|John deVadoss et.al.|[2504.14668](http://arxiv.org/abs/2504.14668)|null|
@@ -46,13 +48,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**Adversarial Attacks on LLM-as-a-Judge Systems: Insights from Prompt Injections**|Narek Maloyan et.al.|[2504.18333](http://arxiv.org/abs/2504.18333)|null|
 |**2025-04-23**|**Amplified Vulnerabilities: Structured Jailbreak Attacks on LLM-based Multi-Agent Debate**|Senmao Qi et.al.|[2504.16489](http://arxiv.org/abs/2504.16489)|null|
 |**2025-04-20**|**Breaking the Prompt Wall (I): A Real-World Case Study of Attacking ChatGPT via Lightweight Prompt Injection**|Xiangyu Chang et.al.|[2504.16125](http://arxiv.org/abs/2504.16125)|null|
 |**2025-04-22**|**T2VShield: Model-Agnostic Jailbreak Defense for Text-to-Video Models**|Siyuan Liang et.al.|[2504.15512](http://arxiv.org/abs/2504.15512)|null|
 |**2025-04-21**|**MR. Guard: Multilingual Reasoning Guardrail using Curriculum Learning**|Yahan Yang et.al.|[2504.15241](http://arxiv.org/abs/2504.15241)|null|
 |**2025-04-20**|**Prompt-Hacking: The New p-Hacking?**|Thomas Kosch et.al.|[2504.14571](http://arxiv.org/abs/2504.14571)|null|
 |**2025-04-20**|**LLM-Enabled In-Context Learning for Data Collection Scheduling in UAV-assisted Sensor Networks**|Yousef Emami et.al.|[2504.14556](http://arxiv.org/abs/2504.14556)|null|
-|**2025-04-22**|**Manipulating Multimodal Agents via Cross-Modal Prompt Injection**|Le Wang et.al.|[2504.14348](http://arxiv.org/abs/2504.14348)|null|
+|**2025-04-25**|**Manipulating Multimodal Agents via Cross-Modal Prompt Injection**|Le Wang et.al.|[2504.14348](http://arxiv.org/abs/2504.14348)|null|
 |**2025-04-18**|**DETAM: Defending LLMs Against Jailbreak Attacks via Targeted Attention Modification**|Yu Li et.al.|[2504.13562](http://arxiv.org/abs/2504.13562)|null|
 |**2025-04-15**|**X-Teaming: Multi-Turn Jailbreaks and Defenses with Adaptive Multi-Agents**|Salman Rahman et.al.|[2504.13203](http://arxiv.org/abs/2504.13203)|null|
 |**2025-04-15**|**Concept Enhancement Engineering: A Lightweight and Efficient Robust Defense Against Jailbreak Attacks in Embodied AI**|Jirui Yang et.al.|[2504.13201](http://arxiv.org/abs/2504.13201)|null|
