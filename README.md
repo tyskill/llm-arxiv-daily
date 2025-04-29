@@ -1,4 +1,4 @@
-## Updated on 2025.04.28
+## Updated on 2025.04.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,6 +16,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**Mitigating Societal Cognitive Overload in the Age of AI: Challenges and Directions**|Salem Lahlou et.al.|[2504.19990](http://arxiv.org/abs/2504.19990)|null|
+|**2025-04-28**|**Securing Agentic AI: A Comprehensive Threat Model and Mitigation Framework for Generative AI Agents**|Vineeth Sai Narajala et.al.|[2504.19956](http://arxiv.org/abs/2504.19956)|null|
+|**2025-04-28**|**AI Alignment in Medical Imaging: Unveiling Hidden Biases Through Counterfactual Analysis**|Haroui Ma et.al.|[2504.19621](http://arxiv.org/abs/2504.19621)|null|
+|**2025-04-26**|**Latent Adversarial Training Improves the Representation of Refusal**|Alexandra Abbas et.al.|[2504.18872](http://arxiv.org/abs/2504.18872)|null|
 |**2025-04-25**|**AI Safety Assurance for Automated Vehicles: A Survey on Research, Standardization, Regulation**|Lars Ullrich et.al.|[2504.18328](http://arxiv.org/abs/2504.18328)|null|
 |**2025-04-25**|**RAG LLMs are Not Safer: A Safety Analysis of Retrieval-Augmented Generation for Large Language Models**|Bang An et.al.|[2504.18041](http://arxiv.org/abs/2504.18041)|null|
 |**2025-04-17**|**Security-First AI: Foundations for Robust and Trustworthy Systems**|Krti Tallam et.al.|[2504.16110](http://arxiv.org/abs/2504.16110)|null|
@@ -51,16 +55,22 @@
 |**2025-03-17**|**ProDiF: Protecting Domain-Invariant Features to Secure Pre-Trained Models Against Extraction**|Tong Zhou et.al.|[2503.13224](http://arxiv.org/abs/2503.13224)|null|
 |**2025-03-17**|**Identifying Cooperative Personalities in Multi-agent Contexts through Personality Steering with Representation Engineering**|Kenneth J. K. Ong et.al.|[2503.12722](http://arxiv.org/abs/2503.12722)|null|
 
-<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
 
 ## Prompt Injection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**Prompt Injection Attack to Tool Selection in LLM Agents**|Jiawen Shi et.al.|[2504.19793](http://arxiv.org/abs/2504.19793)|null|
+|**2025-04-28**|**Security Steerability is All You Need**|Itay Hazan et.al.|[2504.19521](http://arxiv.org/abs/2504.19521)|null|
+|**2025-04-28**|**JailbreaksOverTime: Detecting Jailbreak Attacks Under Distribution Shift**|Julien Piet et.al.|[2504.19440](http://arxiv.org/abs/2504.19440)|null|
+|**2025-04-27**|**Small Models, Big Tasks: An Exploratory Empirical Study on Small Language Models for Function Calling**|Ishan Kavathekar et.al.|[2504.19277](http://arxiv.org/abs/2504.19277)|null|
+|**2025-04-26**|**Graph of Attacks: Improved Black-Box and Interpretable Jailbreaks for LLMs**|Mohammad Akbar-Tajari et.al.|[2504.19019](http://arxiv.org/abs/2504.19019)|null|
+|**2025-04-22**|**WASP: Benchmarking Web Agent Security Against Prompt Injection Attacks**|Ivan Evtimov et.al.|[2504.18575](http://arxiv.org/abs/2504.18575)|null|
 |**2025-04-25**|**Adversarial Attacks on LLM-as-a-Judge Systems: Insights from Prompt Injections**|Narek Maloyan et.al.|[2504.18333](http://arxiv.org/abs/2504.18333)|null|
 |**2025-04-23**|**Amplified Vulnerabilities: Structured Jailbreak Attacks on LLM-based Multi-Agent Debate**|Senmao Qi et.al.|[2504.16489](http://arxiv.org/abs/2504.16489)|null|
 |**2025-04-20**|**Breaking the Prompt Wall (I): A Real-World Case Study of Attacking ChatGPT via Lightweight Prompt Injection**|Xiangyu Chang et.al.|[2504.16125](http://arxiv.org/abs/2504.16125)|null|
-|**2025-04-22**|**T2VShield: Model-Agnostic Jailbreak Defense for Text-to-Video Models**|Siyuan Liang et.al.|[2504.15512](http://arxiv.org/abs/2504.15512)|null|
+|**2025-04-26**|**T2VShield: Model-Agnostic Jailbreak Defense for Text-to-Video Models**|Siyuan Liang et.al.|[2504.15512](http://arxiv.org/abs/2504.15512)|null|
 |**2025-04-21**|**MR. Guard: Multilingual Reasoning Guardrail using Curriculum Learning**|Yahan Yang et.al.|[2504.15241](http://arxiv.org/abs/2504.15241)|null|
 |**2025-04-20**|**Prompt-Hacking: The New p-Hacking?**|Thomas Kosch et.al.|[2504.14571](http://arxiv.org/abs/2504.14571)|null|
 |**2025-04-20**|**LLM-Enabled In-Context Learning for Data Collection Scheduling in UAV-assisted Sensor Networks**|Yousef Emami et.al.|[2504.14556](http://arxiv.org/abs/2504.14556)|null|
@@ -118,7 +128,7 @@
 |**2025-03-23**|**Metaphor-based Jailbreaking Attacks on Text-to-Image Models**|Chenyu Zhang et.al.|[2503.17987](http://arxiv.org/abs/2503.17987)|null|
 |**2025-03-23**|**Smoke and Mirrors: Jailbreaking LLM-based Code Generation via Implicit Malicious Prompts**|Sheng Ouyang et.al.|[2503.17953](http://arxiv.org/abs/2503.17953)|null|
 
-<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
 
 ## Code Embedding
 
@@ -135,12 +145,15 @@
 |**2025-03-26**|**Intelligent Code Embedding Framework for High-Precision Ransomware Detection via Multimodal Execution Path Analysis**|Levi Gareth et.al.|[2501.15836](http://arxiv.org/abs/2501.15836)|null|
 |**2024-12-18**|**Transducer Tuning: Efficient Model Adaptation for Software Tasks Using Code Property Graphs**|Imam Nur Bani Yusuf et.al.|[2412.13467](http://arxiv.org/abs/2412.13467)|**[link](https://github.com/imamnurby/transducer-tuning)**|
 
-<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
 
 ## Model Context Protocol
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**Simplified and Secure MCP Gateways for Enterprise AI Integration**|Ivo Brett et.al.|[2504.19997](http://arxiv.org/abs/2504.19997)|null|
+|**2025-04-28**|**Securing GenAI Multi-Agent Systems Against Tool Squatting: A Zero Trust Registry-Based Approach**|Vineeth Sai Narajala et.al.|[2504.19951](http://arxiv.org/abs/2504.19951)|null|
+|**2025-04-28**|**From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review**|Mohamed Amine Ferrag et.al.|[2504.19678](http://arxiv.org/abs/2504.19678)|null|
 |**2025-04-23**|**Building A Secure Agentic AI Application Leveraging A2A Protocol**|Idan Habler et.al.|[2504.16902](http://arxiv.org/abs/2504.16902)|null|
 |**2025-04-17**|**MCP Guardian: A Security-First Layer for Safeguarding MCP-Based AI System**|Sonu Kumar et.al.|[2504.12757](http://arxiv.org/abs/2504.12757)|null|
 |**2025-04-11**|**MCP Bridge: A Lightweight, LLM-Agnostic RESTful Proxy for Model Context Protocol Servers**|Arash Ahmadi et.al.|[2504.08999](http://arxiv.org/abs/2504.08999)|null|
@@ -148,7 +161,7 @@
 |**2025-04-11**|**MCP Safety Audit: LLMs with the Model Context Protocol Allow Major Security Exploits**|Brandon Radosevich et.al.|[2504.03767](http://arxiv.org/abs/2504.03767)|**[link](https://github.com/johnhalloran321/mcpsafetyscanner)**|
 |**2025-04-06**|**Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions**|Xinyi Hou et.al.|[2503.23278](http://arxiv.org/abs/2503.23278)|null|
 
-<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
 
 ## Supply Chain Attacks
 
@@ -166,7 +179,7 @@
 |**2025-03-30**|**Data Extraction Attacks in Retrieval-Augmented Generation via Backdoors**|Yuefeng Peng et.al.|[2411.01705](http://arxiv.org/abs/2411.01705)|null|
 |**2024-11-03**|**Large Language Model Supply Chain: Open Problems From the Security Perspective**|Qiang Hu et.al.|[2411.01604](http://arxiv.org/abs/2411.01604)|null|
 
-<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
