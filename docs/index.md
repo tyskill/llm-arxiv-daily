@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.05.01
+## Updated on 2025.05.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Security
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-29**|**A Domain-Agnostic Scalable AI Safety Ensuring Framework**|Beomjun Kim et.al.|[2504.20924](http://arxiv.org/abs/2504.20924)|null|
+|**2025-04-30**|**A Domain-Agnostic Scalable AI Safety Ensuring Framework**|Beomjun Kim et.al.|[2504.20924](http://arxiv.org/abs/2504.20924)|null|
 |**2025-04-29**|**When Testing AI Tests Us: Safeguarding Mental Health on the Digital Frontlines**|Sachin R. Pendse et.al.|[2504.20910](http://arxiv.org/abs/2504.20910)|null|
 |**2025-04-25**|**AI Awareness**|Xiaojian Li et.al.|[2504.20084](http://arxiv.org/abs/2504.20084)|null|
 |**2025-04-28**|**Mitigating Societal Cognitive Overload in the Age of AI: Challenges and Directions**|Salem Lahlou et.al.|[2504.19990](http://arxiv.org/abs/2504.19990)|null|
@@ -55,6 +55,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**The Illusion of Role Separation: Hidden Shortcuts in LLM Role Learning (and How to Fix Them)**|Zihao Wang et.al.|[2505.00626](http://arxiv.org/abs/2505.00626)|null|
+|**2025-04-29**|**HyPerAlign: Hypotheses-driven Personalized Alignment**|Cristina Garbacea et.al.|[2505.00038](http://arxiv.org/abs/2505.00038)|null|
 |**2025-04-30**|**XBreaking: Explainable Artificial Intelligence for Jailbreaking LLMs**|Marco Arazzi et.al.|[2504.21700](http://arxiv.org/abs/2504.21700)|null|
 |**2025-04-30**|**Hoist with His Own Petard: Inducing Guardrails to Facilitate Denial-of-Service Attacks on Retrieval-Augmented Generation of LLMs**|Pan Suo et.al.|[2504.21680](http://arxiv.org/abs/2504.21680)|null|
 |**2025-04-30**|**The Dual Power of Interpretable Token Embeddings: Jailbreaking Attacks and Defenses for Diffusion Model Unlearning**|Siyi Chen et.al.|[2504.21307](http://arxiv.org/abs/2504.21307)|null|
