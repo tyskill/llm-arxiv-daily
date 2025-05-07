@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.06
+## Updated on 2025.05.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Security
@@ -59,6 +59,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-06**|**LlamaFirewall: An open source guardrail system for building secure AI agents**|Sahana Chennabasappa et.al.|[2505.03574](http://arxiv.org/abs/2505.03574)|null|
+|**2025-05-03**|**Cannot See the Forest for the Trees: Invoking Heuristics and Biases to Elicit Irrational Choices of LLMs**|Haoming Yang et.al.|[2505.02862](http://arxiv.org/abs/2505.02862)|null|
 |**2025-05-04**|**Open Challenges in Multi-Agent Security: Towards Secure Systems of Interacting AI Agents**|Christian Schroeder de Witt et.al.|[2505.02077](http://arxiv.org/abs/2505.02077)|null|
 |**2025-05-05**|**Helping Large Language Models Protect Themselves: An Enhanced Filtering and Summarization System**|Sheikh Samit Muhaimin et.al.|[2505.01315](http://arxiv.org/abs/2505.01315)|null|
 |**2025-05-01**|**OET: Optimization-based prompt injection Evaluation Toolkit**|Jinsheng Pan et.al.|[2505.00843](http://arxiv.org/abs/2505.00843)|null|
