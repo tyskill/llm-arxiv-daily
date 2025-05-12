@@ -32,7 +32,7 @@
 |**2025-04-25**|**AI Awareness**|Xiaojian Li et.al.|[2504.20084](http://arxiv.org/abs/2504.20084)|null|
 |**2025-04-28**|**Mitigating Societal Cognitive Overload in the Age of AI: Challenges and Directions**|Salem Lahlou et.al.|[2504.19990](http://arxiv.org/abs/2504.19990)|null|
 |**2025-05-02**|**Securing Agentic AI: A Comprehensive Threat Model and Mitigation Framework for Generative AI Agents**|Vineeth Sai Narajala et.al.|[2504.19956](http://arxiv.org/abs/2504.19956)|null|
-|**2025-04-28**|**AI Alignment in Medical Imaging: Unveiling Hidden Biases Through Counterfactual Analysis**|Haroui Ma et.al.|[2504.19621](http://arxiv.org/abs/2504.19621)|null|
+|**2025-04-28**|**AI Alignment in Medical Imaging: Unveiling Hidden Biases Through Counterfactual Analysis**|Haroui Ma et.al.|[2504.19621](http://arxiv.org/abs/2504.19621)|**[link](https://github.com/neferpitou3871/ai-alignment-medical-imaging)**|
 |**2025-04-26**|**Latent Adversarial Training Improves the Representation of Refusal**|Alexandra Abbas et.al.|[2504.18872](http://arxiv.org/abs/2504.18872)|null|
 |**2025-04-25**|**AI Safety Assurance for Automated Vehicles: A Survey on Research, Standardization, Regulation**|Lars Ullrich et.al.|[2504.18328](http://arxiv.org/abs/2504.18328)|null|
 |**2025-04-25**|**RAG LLMs are Not Safer: A Safety Analysis of Retrieval-Augmented Generation for Large Language Models**|Bang An et.al.|[2504.18041](http://arxiv.org/abs/2504.18041)|null|
@@ -94,7 +94,7 @@
 |**2025-04-30**|**The Dual Power of Interpretable Token Embeddings: Jailbreaking Attacks and Defenses for Diffusion Model Unlearning**|Siyi Chen et.al.|[2504.21307](http://arxiv.org/abs/2504.21307)|null|
 |**2025-04-29**|**CachePrune: Neural-Based Attribution Defense Against Indirect Prompt Injection Attacks**|Rui Wang et.al.|[2504.21228](http://arxiv.org/abs/2504.21228)|null|
 |**2025-04-29**|**ACE: A Security Architecture for LLM-Integrated App Systems**|Evan Li et.al.|[2504.20984](http://arxiv.org/abs/2504.20984)|null|
-|**2025-04-29**|**AegisLLM: Scaling Agentic Systems for Self-Reflective Defense in LLM Security**|Zikui Cai et.al.|[2504.20965](http://arxiv.org/abs/2504.20965)|null|
+|**2025-04-29**|**AegisLLM: Scaling Agentic Systems for Self-Reflective Defense in LLM Security**|Zikui Cai et.al.|[2504.20965](http://arxiv.org/abs/2504.20965)|**[link](https://github.com/zikuicai/aegisllm)**|
 |**2025-04-29**|**Chain-of-Defensive-Thought: Structured Reasoning Elicits Robustness in Large Language Models against Reference Corruption**|Wenxiao Wang et.al.|[2504.20769](http://arxiv.org/abs/2504.20769)|null|
 |**2025-04-29**|**Token-Efficient Prompt Injection Attack: Provoking Cessation in LLM Reasoning via Adaptive Token Compression**|Yu Cui et.al.|[2504.20493](http://arxiv.org/abs/2504.20493)|null|
 |**2025-04-29**|**Robustness via Referencing: Defending against Prompt Injection Attacks by Referencing the Executed Instruction**|Yulin Chen et.al.|[2504.20472](http://arxiv.org/abs/2504.20472)|null|
@@ -103,8 +103,8 @@
 |**2025-04-29**|**Security Steerability is All You Need**|Itay Hazan et.al.|[2504.19521](http://arxiv.org/abs/2504.19521)|null|
 |**2025-04-28**|**JailbreaksOverTime: Detecting Jailbreak Attacks Under Distribution Shift**|Julien Piet et.al.|[2504.19440](http://arxiv.org/abs/2504.19440)|null|
 |**2025-04-27**|**Small Models, Big Tasks: An Exploratory Empirical Study on Small Language Models for Function Calling**|Ishan Kavathekar et.al.|[2504.19277](http://arxiv.org/abs/2504.19277)|null|
-|**2025-04-26**|**Graph of Attacks: Improved Black-Box and Interpretable Jailbreaks for LLMs**|Mohammad Akbar-Tajari et.al.|[2504.19019](http://arxiv.org/abs/2504.19019)|null|
-|**2025-04-22**|**WASP: Benchmarking Web Agent Security Against Prompt Injection Attacks**|Ivan Evtimov et.al.|[2504.18575](http://arxiv.org/abs/2504.18575)|null|
+|**2025-04-26**|**Graph of Attacks: Improved Black-Box and Interpretable Jailbreaks for LLMs**|Mohammad Akbar-Tajari et.al.|[2504.19019](http://arxiv.org/abs/2504.19019)|**[link](https://github.com/goat-pydev/graph_of_attacks)**|
+|**2025-04-22**|**WASP: Benchmarking Web Agent Security Against Prompt Injection Attacks**|Ivan Evtimov et.al.|[2504.18575](http://arxiv.org/abs/2504.18575)|**[link](https://github.com/facebookresearch/wasp)**|
 |**2025-04-25**|**Adversarial Attacks on LLM-as-a-Judge Systems: Insights from Prompt Injections**|Narek Maloyan et.al.|[2504.18333](http://arxiv.org/abs/2504.18333)|null|
 |**2025-04-23**|**Amplified Vulnerabilities: Structured Jailbreak Attacks on LLM-based Multi-Agent Debate**|Senmao Qi et.al.|[2504.16489](http://arxiv.org/abs/2504.16489)|null|
 |**2025-04-20**|**Breaking the Prompt Wall (I): A Real-World Case Study of Attacking ChatGPT via Lightweight Prompt Injection**|Xiangyu Chang et.al.|[2504.16125](http://arxiv.org/abs/2504.16125)|null|
@@ -124,7 +124,7 @@
 |**2025-04-15**|**Token-Level Constraint Boundary Search for Jailbreaking Text-to-Image Models**|Jiangtao Liu et.al.|[2504.11106](http://arxiv.org/abs/2504.11106)|null|
 |**2025-04-14**|**The Jailbreak Tax: How Useful are Your Jailbreak Outputs?**|Kristina Nikolić et.al.|[2504.10694](http://arxiv.org/abs/2504.10694)|**[link](https://github.com/ethz-spylab/jailbreak-tax)**|
 |**2025-04-14**|**Pixel-SAIL: Single Transformer For Pixel-Grounded Understanding**|Tao Zhang et.al.|[2504.10465](http://arxiv.org/abs/2504.10465)|**[link](https://github.com/magic-research/Sa2VA)**|
-|**2025-04-16**|**LLM Unlearning Reveals a Stronger-Than-Expected Coreset Effect in Current Benchmarks**|Soumyadeep Pal et.al.|[2504.10185](http://arxiv.org/abs/2504.10185)|null|
+|**2025-04-16**|**LLM Unlearning Reveals a Stronger-Than-Expected Coreset Effect in Current Benchmarks**|Soumyadeep Pal et.al.|[2504.10185](http://arxiv.org/abs/2504.10185)|**[link](https://github.com/optml-group/mu-coreset)**|
 |**2025-04-14**|**RealSafe-R1: Safety-Aligned DeepSeek-R1 without Compromising Reasoning Capability**|Yichi Zhang et.al.|[2504.10081](http://arxiv.org/abs/2504.10081)|null|
 |**2025-04-14**|**StruPhantom: Evolutionary Injection Attacks on Black-Box Tabular Agents Powered by Large Language Models**|Yang Feng et.al.|[2504.09841](http://arxiv.org/abs/2504.09841)|null|
 |**2025-04-13**|**The Structural Safety Generalization Problem**|Julius Broomfield et.al.|[2504.09712](http://arxiv.org/abs/2504.09712)|**[link](https://github.com/juliusbroomfield/the-ssg-problem)**|
