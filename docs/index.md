@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.05.15
+## Updated on 2025.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Security
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**Formalising Human-in-the-Loop: Computational Reductions, Failure Modes, and Legal-Moral Responsibility**|Maurice Chiodo et.al.|[2505.10426](http://arxiv.org/abs/2505.10426)|null|
+|**2025-05-15**|**Dark LLMs: The Growing Threat of Unaligned AI Models**|Michael Fire et.al.|[2505.10066](http://arxiv.org/abs/2505.10066)|null|
+|**2025-05-15**|**Analysing Safety Risks in LLMs Fine-Tuned with Pseudo-Malicious Cyber Security Data**|Adel ElZemity et.al.|[2505.09974](http://arxiv.org/abs/2505.09974)|null|
 |**2025-05-14**|**Access Controls Will Solve the Dual-Use Dilemma**|Evžen Wybitul et.al.|[2505.09341](http://arxiv.org/abs/2505.09341)|null|
 |**2025-05-12**|**SecReEvalBench: A Multi-turned Security Resilience Evaluation Benchmark for Large Language Models**|Huining Cui et.al.|[2505.07584](http://arxiv.org/abs/2505.07584)|null|
 |**2025-05-09**|**Offensive Security for AI Systems: Concepts, Practices, and Applications**|Josh Harguess et.al.|[2505.06380](http://arxiv.org/abs/2505.06380)|null|
@@ -69,6 +72,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**Dark LLMs: The Growing Threat of Unaligned AI Models**|Michael Fire et.al.|[2505.10066](http://arxiv.org/abs/2505.10066)|null|
+|**2025-05-15**|**Analysing Safety Risks in LLMs Fine-Tuned with Pseudo-Malicious Cyber Security Data**|Adel ElZemity et.al.|[2505.09974](http://arxiv.org/abs/2505.09974)|null|
+|**2025-05-15**|**PIG: Privacy Jailbreak Attack on LLMs via Gradient-based Iterative In-Context Optimization**|Yidan Wang et.al.|[2505.09921](http://arxiv.org/abs/2505.09921)|**[link](https://github.com/redwyd/privacyjailbreak)**|
+|**2025-05-14**|**Adversarial Attack on Large Language Models using Exponentiated Gradient Descent**|Sajib Biswas et.al.|[2505.09820](http://arxiv.org/abs/2505.09820)|**[link](https://github.com/sbamit/exponentiated-gradient-descent-llm-attack)**|
 |**2025-05-14**|**Adversarial Suffix Filtering: a Defense Pipeline for LLMs**|David Khachaturov et.al.|[2505.09602](http://arxiv.org/abs/2505.09602)|null|
 |**2025-05-11**|**TokenProber: Jailbreaking Text-to-image Models via Fine-grained Word Impact Analysis**|Longtian Wang et.al.|[2505.08804](http://arxiv.org/abs/2505.08804)|null|
 |**2025-05-13**|**A Large-Scale Empirical Analysis of Custom GPTs' Vulnerabilities in the OpenAI Ecosystem**|Sunday Oyinlola Ogundoyin et.al.|[2505.08148](http://arxiv.org/abs/2505.08148)|**[link](https://github.com/customgptvulnerability/custom-gpt-vulnerability-assessment)**|
