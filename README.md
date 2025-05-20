@@ -1,4 +1,4 @@
-## Updated on 2025.05.19
+## Updated on 2025.05.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,6 +16,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**Adversarial Testing in LLMs: Insights into Decision-Making Vulnerabilities**|Lili Zhang et.al.|[2505.13195](http://arxiv.org/abs/2505.13195)|null|
+|**2025-05-19**|**Bullying the Machine: How Personas Increase LLM Vulnerability**|Ziwei Xu et.al.|[2505.12692](http://arxiv.org/abs/2505.12692)|null|
+|**2025-05-18**|**Persuasion and Safety in the Era of Generative AI**|Haein Kong et.al.|[2505.12248](http://arxiv.org/abs/2505.12248)|null|
+|**2025-05-17**|**Position Paper: Bounded Alignment: What (Not) To Expect From AGI Agents**|Ali A. Minai et.al.|[2505.11866](http://arxiv.org/abs/2505.11866)|null|
+|**2025-05-16**|**Probing the Vulnerability of Large Language Models to Polysemantic Interventions**|Bofan Gong et.al.|[2505.11611](http://arxiv.org/abs/2505.11611)|null|
 |**2025-05-16**|**Illusion or Algorithm? Investigating Memorization, Emergence, and Symbolic Processing in In-Context Learning**|Jingcheng Niu et.al.|[2505.11004](http://arxiv.org/abs/2505.11004)|null|
 |**2025-05-15**|**Formalising Human-in-the-Loop: Computational Reductions, Failure Modes, and Legal-Moral Responsibility**|Maurice Chiodo et.al.|[2505.10426](http://arxiv.org/abs/2505.10426)|null|
 |**2025-05-15**|**Dark LLMs: The Growing Threat of Unaligned AI Models**|Michael Fire et.al.|[2505.10066](http://arxiv.org/abs/2505.10066)|null|
@@ -76,12 +81,22 @@
 |**2025-03-17**|**ProDiF: Protecting Domain-Invariant Features to Secure Pre-Trained Models Against Extraction**|Tong Zhou et.al.|[2503.13224](http://arxiv.org/abs/2503.13224)|null|
 |**2025-03-17**|**Identifying Cooperative Personalities in Multi-agent Contexts through Personality Steering with Representation Engineering**|Kenneth J. K. Ong et.al.|[2503.12722](http://arxiv.org/abs/2503.12722)|null|
 
-<p align=right>(<a href=#updated-on-20250519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
 
 ## Prompt Injection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**Investigating the Vulnerability of LLM-as-a-Judge Architectures to Prompt-Injection Attacks**|Narek Maloyan et.al.|[2505.13348](http://arxiv.org/abs/2505.13348)|null|
+|**2025-05-19**|**I'll believe it when I see it: Images increase misinformation sharing in Vision-Language Models**|Alice Plebe et.al.|[2505.13302](http://arxiv.org/abs/2505.13302)|**[link](https://github.com/3lis/misinfo_vlm)**|
+|**2025-05-19**|**The Hidden Dangers of Browsing AI Agents**|Mykyta Mudryi et.al.|[2505.13076](http://arxiv.org/abs/2505.13076)|null|
+|**2025-05-18**|**BadNAVer: Exploring Jailbreak Attacks On Vision-and-Language Navigation**|Wenqi Lyu et.al.|[2505.12443](http://arxiv.org/abs/2505.12443)|null|
+|**2025-05-18**|**CAPTURE: Context-Aware Prompt Injection Testing and Robustness Enhancement**|Gauri Kholkar et.al.|[2505.12368](http://arxiv.org/abs/2505.12368)|null|
+|**2025-05-18**|**The Tower of Babel Revisited: Multilingual Jailbreak Prompts on Closed-Source Large Language Models**|Linghan Huang et.al.|[2505.12287](http://arxiv.org/abs/2505.12287)|null|
+|**2025-05-17**|**Why Not Act on What You Know? Unleashing Safety Potential of LLMs via Self-Aware Guard Enhancement**|Peng Ding et.al.|[2505.12060](http://arxiv.org/abs/2505.12060)|**[link](https://github.com/njunlp/sage)**|
+|**2025-05-17**|**Multilingual Collaborative Defense for Large Language Models**|Hongliang Li et.al.|[2505.11835](http://arxiv.org/abs/2505.11835)|**[link](https://github.com/hliang-lee/mcd)**|
+|**2025-05-17**|**JULI: Jailbreak Large Language Models by Self-Introspection**|Jesson Wang et.al.|[2505.11790](http://arxiv.org/abs/2505.11790)|null|
+|**2025-05-16**|**EnvInjection: Environmental Prompt Injection Attack to Multi-modal Web Agents**|Xilong Wang et.al.|[2505.11717](http://arxiv.org/abs/2505.11717)|null|
 |**2025-05-16**|**ProxyPrompt: Securing System Prompts against Prompt Extraction Attacks**|Zhixiong Zhuang et.al.|[2505.11459](http://arxiv.org/abs/2505.11459)|null|
 |**2025-05-16**|**CARES: Comprehensive Evaluation of Safety and Adversarial Robustness in Medical LLMs**|Sijia Chen et.al.|[2505.11413](http://arxiv.org/abs/2505.11413)|null|
 |**2025-05-16**|**AutoRAN: Weak-to-Strong Jailbreaking of Large Reasoning Models**|Jiacheng Liang et.al.|[2505.10846](http://arxiv.org/abs/2505.10846)|null|
@@ -191,12 +206,13 @@
 |**2025-03-23**|**Metaphor-based Jailbreaking Attacks on Text-to-Image Models**|Chenyu Zhang et.al.|[2503.17987](http://arxiv.org/abs/2503.17987)|null|
 |**2025-03-23**|**Smoke and Mirrors: Jailbreaking LLM-based Code Generation via Implicit Malicious Prompts**|Sheng Ouyang et.al.|[2503.17953](http://arxiv.org/abs/2503.17953)|null|
 
-<p align=right>(<a href=#updated-on-20250519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
 
 ## Code Embedding
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**Towards A Generalist Code Embedding Model Based On Massive Data Synthesis**|Chaofan Li et.al.|[2505.12697](http://arxiv.org/abs/2505.12697)|**[link](https://github.com/flagopen/flagembedding)**|
 |**2025-03-29**|**Improving the Context Length and Efficiency of Code Retrieval for Tracing Security Vulnerability Fixes**|Xueqing Liu et.al.|[2503.22935](http://arxiv.org/abs/2503.22935)|null|
 |**2025-03-14**|**OASIS: Order-Augmented Strategy for Improved Code Search**|Zuchen Gao et.al.|[2503.08161](http://arxiv.org/abs/2503.08161)|null|
 |**2025-03-10**|**Assessing Uncertainty in Stock Returns: A Gaussian Mixture Distribution-Based Method**|Yanlong Wang et.al.|[2503.06929](http://arxiv.org/abs/2503.06929)|null|
@@ -208,7 +224,7 @@
 |**2025-03-26**|**Intelligent Code Embedding Framework for High-Precision Ransomware Detection via Multimodal Execution Path Analysis**|Levi Gareth et.al.|[2501.15836](http://arxiv.org/abs/2501.15836)|null|
 |**2024-12-18**|**Transducer Tuning: Efficient Model Adaptation for Software Tasks Using Code Property Graphs**|Imam Nur Bani Yusuf et.al.|[2412.13467](http://arxiv.org/abs/2412.13467)|**[link](https://github.com/imamnurby/transducer-tuning)**|
 
-<p align=right>(<a href=#updated-on-20250519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
 
 ## Model Context Protocol
 
@@ -221,13 +237,13 @@
 |**2025-04-28**|**Securing GenAI Multi-Agent Systems Against Tool Squatting: A Zero Trust Registry-Based Approach**|Vineeth Sai Narajala et.al.|[2504.19951](http://arxiv.org/abs/2504.19951)|null|
 |**2025-04-28**|**From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review**|Mohamed Amine Ferrag et.al.|[2504.19678](http://arxiv.org/abs/2504.19678)|null|
 |**2025-05-02**|**Building A Secure Agentic AI Application Leveraging A2A Protocol**|Idan Habler et.al.|[2504.16902](http://arxiv.org/abs/2504.16902)|null|
-|**2025-04-17**|**MCP Guardian: A Security-First Layer for Safeguarding MCP-Based AI System**|Sonu Kumar et.al.|[2504.12757](http://arxiv.org/abs/2504.12757)|null|
+|**2025-05-19**|**MCP Guardian: A Security-First Layer for Safeguarding MCP-Based AI System**|Sonu Kumar et.al.|[2504.12757](http://arxiv.org/abs/2504.12757)|null|
 |**2025-04-11**|**MCP Bridge: A Lightweight, LLM-Agnostic RESTful Proxy for Model Context Protocol Servers**|Arash Ahmadi et.al.|[2504.08999](http://arxiv.org/abs/2504.08999)|null|
 |**2025-05-02**|**Enterprise-Grade Security for the Model Context Protocol (MCP): Frameworks and Mitigation Strategies**|Vineeth Sai Narajala et.al.|[2504.08623](http://arxiv.org/abs/2504.08623)|null|
 |**2025-04-11**|**MCP Safety Audit: LLMs with the Model Context Protocol Allow Major Security Exploits**|Brandon Radosevich et.al.|[2504.03767](http://arxiv.org/abs/2504.03767)|**[link](https://github.com/leidosinc/mcpsafetyscanner)**|
 |**2025-04-06**|**Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions**|Xinyi Hou et.al.|[2503.23278](http://arxiv.org/abs/2503.23278)|null|
 
-<p align=right>(<a href=#updated-on-20250519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
 
 ## Supply Chain Attacks
 
@@ -249,7 +265,7 @@
 |**2025-03-30**|**Data Extraction Attacks in Retrieval-Augmented Generation via Backdoors**|Yuefeng Peng et.al.|[2411.01705](http://arxiv.org/abs/2411.01705)|null|
 |**2024-11-03**|**Large Language Model Supply Chain: Open Problems From the Security Perspective**|Qiang Hu et.al.|[2411.01604](http://arxiv.org/abs/2411.01604)|null|
 
-<p align=right>(<a href=#updated-on-20250519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
