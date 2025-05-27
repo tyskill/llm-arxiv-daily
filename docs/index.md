@@ -2,13 +2,19 @@
 layout: default
 ---
 
-## Updated on 2025.05.26
+## Updated on 2025.05.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Security
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**What Really Matters in Many-Shot Attacks? An Empirical Study of Long-Context Vulnerabilities in LLMs**|Sangyeop Kim et.al.|[2505.19773](http://arxiv.org/abs/2505.19773)|null|
+|**2025-05-25**|**When Ethics and Payoffs Diverge: LLM Agents in Morally Charged Social Dilemmas**|Steffen Backmann et.al.|[2505.19212](http://arxiv.org/abs/2505.19212)|null|
+|**2025-05-25**|**GhostPrompt: Jailbreaking Text-to-image Generative Models based on Dynamic Optimization**|Zixuan Chen et.al.|[2505.18979](http://arxiv.org/abs/2505.18979)|null|
+|**2025-05-24**|**Guided by Guardrails: Control Barrier Functions as Safety Instructors for Robotic Learning**|Maeva Guerrier et.al.|[2505.18858](http://arxiv.org/abs/2505.18858)|null|
+|**2025-05-24**|**Safety Alignment via Constrained Knowledge Unlearning**|Zesheng Shi et.al.|[2505.18588](http://arxiv.org/abs/2505.18588)|null|
+|**2025-05-23**|**Understanding and Mitigating Overrefusal in LLMs from an Unveiling Perspective of Safety Decision Boundary**|Licheng Pan et.al.|[2505.18325](http://arxiv.org/abs/2505.18325)|null|
 |**2025-05-23**|**Surfacing Semantic Orthogonality Across Model Safety Benchmarks: A Multi-Dimensional Analysis**|Jonathan Bennion et.al.|[2505.17636](http://arxiv.org/abs/2505.17636)|null|
 |**2025-05-23**|**Wolf Hidden in Sheep's Conversations: Toward Harmless Data-Based Backdoor Attacks for Jailbreaking Large Language Models**|Jiawei Kong et.al.|[2505.17601](http://arxiv.org/abs/2505.17601)|null|
 |**2025-05-20**|**From nuclear safety to LLM security: Applying non-probabilistic risk management strategies to build safe and secure LLM-powered systems**|Alexander Gutfraind et.al.|[2505.17084](http://arxiv.org/abs/2505.17084)|null|
@@ -88,6 +94,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**Capability-Based Scaling Laws for LLM Red-Teaming**|Alexander Panfilov et.al.|[2505.20162](http://arxiv.org/abs/2505.20162)|null|
+|**2025-05-26**|**Attention! You Vision Language Model Could Be Maliciously Manipulated**|Xiaosen Wang et.al.|[2505.19911](http://arxiv.org/abs/2505.19911)|null|
+|**2025-05-26**|**What Really Matters in Many-Shot Attacks? An Empirical Study of Long-Context Vulnerabilities in LLMs**|Sangyeop Kim et.al.|[2505.19773](http://arxiv.org/abs/2505.19773)|null|
+|**2025-05-26**|**SGM: A Framework for Building Specification-Guided Moderation Filters**|Masoomali Fatehkia et.al.|[2505.19766](http://arxiv.org/abs/2505.19766)|null|
+|**2025-05-26**|**VisCRA: A Visual Chain Reasoning Attack for Jailbreaking Multimodal Large Language Models**|Bingrui Sima et.al.|[2505.19684](http://arxiv.org/abs/2505.19684)|null|
+|**2025-05-26**|**JailBound: Jailbreaking Internal Safety Boundaries of Vision-Language Models**|Jiaxin Song et.al.|[2505.19610](http://arxiv.org/abs/2505.19610)|null|
+|**2025-05-25**|**GhostPrompt: Jailbreaking Text-to-image Generative Models based on Dynamic Optimization**|Zixuan Chen et.al.|[2505.18979](http://arxiv.org/abs/2505.18979)|null|
+|**2025-05-25**|**Stronger Enforcement of Instruction Hierarchy via Augmented Intermediate Representations**|Sanjay Kariyappa et.al.|[2505.18907](http://arxiv.org/abs/2505.18907)|null|
+|**2025-05-24**|**Security Concerns for Large Language Models: A Survey**|Miles Q. Li et.al.|[2505.18889](http://arxiv.org/abs/2505.18889)|null|
+|**2025-05-24**|**Audio Jailbreak Attacks: Exposing Vulnerabilities in SpeechGPT in a White-Box Framework**|Binhao Ma et.al.|[2505.18864](http://arxiv.org/abs/2505.18864)|null|
 |**2025-05-23**|**Survival Games: Human-LLM Strategic Showdowns under Severe Resource Scarcity**|Zhihong Chen et.al.|[2505.17937](http://arxiv.org/abs/2505.17937)|null|
 |**2025-05-23**|**Does Chain-of-Thought Reasoning Really Reduce Harmfulness from Jailbreaking?**|Chengda Lu et.al.|[2505.17650](http://arxiv.org/abs/2505.17650)|null|
 |**2025-05-23**|**Wolf Hidden in Sheep's Conversations: Toward Harmless Data-Based Backdoor Attacks for Jailbreaking Large Language Models**|Jiawei Kong et.al.|[2505.17601](http://arxiv.org/abs/2505.17601)|null|
@@ -279,7 +295,7 @@ layout: default
 |**2025-04-29**|**Understanding Large Language Model Supply Chain: Structure, Domain, and Vulnerabilities**|Yanzhe Hu et.al.|[2504.20763](http://arxiv.org/abs/2504.20763)|null|
 |**2025-04-24**|**Automatically Generating Rules of Malicious Software Packages via Large Language Model**|XiangRui Zhang et.al.|[2504.17198](http://arxiv.org/abs/2504.17198)|null|
 |**2025-03-27**|**Malicious and Unintentional Disclosure Risks in Large Language Models for Code Generation**|Rafiqul Rabin et.al.|[2503.22760](http://arxiv.org/abs/2503.22760)|null|
-|**2025-03-10**|**Control Flow-Augmented Decompiler based on Large Language Model**|Peipei Liu et.al.|[2503.07215](http://arxiv.org/abs/2503.07215)|null|
+|**2025-05-26**|**The CodeInverter Suite: Control-Flow and Data-Mapping Augmented Binary Decompilation with LLMs**|Peipei Liu et.al.|[2503.07215](http://arxiv.org/abs/2503.07215)|null|
 |**2025-02-18**|**SoK: Understanding Vulnerabilities in the Large Language Model Supply Chain**|Shenao Wang et.al.|[2502.12497](http://arxiv.org/abs/2502.12497)|null|
 |**2025-01-31**|**Importing Phantoms: Measuring LLM Package Hallucination Vulnerabilities**|Arjun Krishna et.al.|[2501.19012](http://arxiv.org/abs/2501.19012)|null|
 |**2024-12-26**|**Integrating Artificial Open Generative Artificial Intelligence into Software Supply Chain Security**|Vasileios Alevizos et.al.|[2412.19088](http://arxiv.org/abs/2412.19088)|null|
