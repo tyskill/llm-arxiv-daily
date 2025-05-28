@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.05.27
+## Updated on 2025.05.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Security
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**The Multilingual Divide and Its Impact on Global AI Safety**|Aidan Peppin et.al.|[2505.21344](http://arxiv.org/abs/2505.21344)|null|
+|**2025-05-27**|**Red-Teaming Text-to-Image Systems by Rule-based Preference Modeling**|Yichuan Cao et.al.|[2505.21074](http://arxiv.org/abs/2505.21074)|null|
+|**2025-05-26**|**VSCBench: Bridging the Gap in Vision-Language Model Safety Calibration**|Jiahui Geng et.al.|[2505.20362](http://arxiv.org/abs/2505.20362)|null|
 |**2025-05-26**|**What Really Matters in Many-Shot Attacks? An Empirical Study of Long-Context Vulnerabilities in LLMs**|Sangyeop Kim et.al.|[2505.19773](http://arxiv.org/abs/2505.19773)|null|
 |**2025-05-25**|**When Ethics and Payoffs Diverge: LLM Agents in Morally Charged Social Dilemmas**|Steffen Backmann et.al.|[2505.19212](http://arxiv.org/abs/2505.19212)|null|
 |**2025-05-25**|**GhostPrompt: Jailbreaking Text-to-image Generative Models based on Dynamic Optimization**|Zixuan Chen et.al.|[2505.18979](http://arxiv.org/abs/2505.18979)|null|
@@ -94,6 +97,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**Breaking the Ceiling: Exploring the Potential of Jailbreak Attacks through Expanding Strategy Space**|Yao Huang et.al.|[2505.21277](http://arxiv.org/abs/2505.21277)|null|
+|**2025-05-27**|**Improved Representation Steering for Language Models**|Zhengxuan Wu et.al.|[2505.20809](http://arxiv.org/abs/2505.20809)|null|
+|**2025-05-26**|**Holes in Latent Space: Topological Signatures Under Adversarial Influence**|Aideen Fay et.al.|[2505.20435](http://arxiv.org/abs/2505.20435)|null|
+|**2025-05-26**|**Lifelong Safety Alignment for Language Models**|Haoyu Wang et.al.|[2505.20259](http://arxiv.org/abs/2505.20259)|null|
 |**2025-05-26**|**Capability-Based Scaling Laws for LLM Red-Teaming**|Alexander Panfilov et.al.|[2505.20162](http://arxiv.org/abs/2505.20162)|null|
 |**2025-05-26**|**Attention! You Vision Language Model Could Be Maliciously Manipulated**|Xiaosen Wang et.al.|[2505.19911](http://arxiv.org/abs/2505.19911)|null|
 |**2025-05-26**|**What Really Matters in Many-Shot Attacks? An Empirical Study of Long-Context Vulnerabilities in LLMs**|Sangyeop Kim et.al.|[2505.19773](http://arxiv.org/abs/2505.19773)|null|
@@ -254,6 +261,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**Semi-supervised Clustering Through Representation Learning of Large-scale EHR Data**|Linshanshan Wang et.al.|[2505.20731](http://arxiv.org/abs/2505.20731)|null|
 |**2025-05-19**|**Towards A Generalist Code Embedding Model Based On Massive Data Synthesis**|Chaofan Li et.al.|[2505.12697](http://arxiv.org/abs/2505.12697)|**[link](https://github.com/flagopen/flagembedding)**|
 |**2025-03-29**|**Improving the Context Length and Efficiency of Code Retrieval for Tracing Security Vulnerability Fixes**|Xueqing Liu et.al.|[2503.22935](http://arxiv.org/abs/2503.22935)|null|
 |**2025-03-14**|**OASIS: Order-Augmented Strategy for Improved Code Search**|Zuchen Gao et.al.|[2503.08161](http://arxiv.org/abs/2503.08161)|null|
@@ -270,7 +278,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-23**|**Gaming Tool Preferences in Agentic LLMs**|Kazem Faghih et.al.|[2505.18135](http://arxiv.org/abs/2505.18135)|null|
+|**2025-05-23**|**Gaming Tool Preferences in Agentic LLMs**|Kazem Faghih et.al.|[2505.18135](http://arxiv.org/abs/2505.18135)|**[link](https://github.com/kazemf78/Gaming-Tool-Preferences)**|
 |**2025-05-22**|**Invisible Prompts, Visible Threats: Malicious Font Injection in External Resources for Large Language Models**|Junjie Xiong et.al.|[2505.16957](http://arxiv.org/abs/2505.16957)|null|
 |**2025-05-16**|**MPMA: Preference Manipulation Attack Against Model Context Protocol**|Zihan Wang et.al.|[2505.11154](http://arxiv.org/abs/2505.11154)|null|
 |**2025-05-06**|**From Glue-Code to Protocols: A Critical Analysis of A2A and MCP Integration for Scalable Agent Systems**|Qiaomu Li et.al.|[2505.03864](http://arxiv.org/abs/2505.03864)|null|
@@ -289,6 +297,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**JavaSith: A Client-Side Framework for Analyzing Potentially Malicious Extensions in Browsers, VS Code, and NPM Packages**|Avihay Cohen et.al.|[2505.21263](http://arxiv.org/abs/2505.21263)|null|
 |**2025-05-13**|**LibVulnWatch: A Deep Assessment Agent System and Leaderboard for Uncovering Hidden Vulnerabilities in Open-Source AI Libraries**|Zekun Wu et.al.|[2505.08842](http://arxiv.org/abs/2505.08842)|null|
 |**2025-05-07**|**Safeguard-by-Development: A Privacy-Enhanced Development Paradigm for Multi-Agent Collaboration Systems**|Jian Cui et.al.|[2505.04799](http://arxiv.org/abs/2505.04799)|null|
 |**2025-05-02**|**A Rusty Link in the AI Supply Chain: Detecting Evil Configurations in Model Repositories**|Ziqi Ding et.al.|[2505.01067](http://arxiv.org/abs/2505.01067)|null|
