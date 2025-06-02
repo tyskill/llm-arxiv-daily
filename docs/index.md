@@ -2,14 +2,19 @@
 layout: default
 ---
 
-## Updated on 2025.06.01
+## Updated on 2025.06.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Security
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-29**|**SafeScientist: Toward Risk-Aware Scientific Discoveries by LLM Agents**|Kunlun Zhu et.al.|[2505.23559](http://arxiv.org/abs/2505.23559)|null|
+|**2025-05-30**|**TRIDENT: Enhancing Large Language Model Safety with Tri-Dimensional Diversified Red-Teaming Data Synthesis**|Xiaorui Wu et.al.|[2505.24672](http://arxiv.org/abs/2505.24672)|null|
+|**2025-05-30**|**Benchmarking Large Language Models for Cryptanalysis and Mismatched-Generalization**|Utsav Maskey et.al.|[2505.24621](http://arxiv.org/abs/2505.24621)|null|
+|**2025-05-30**|**The State of Multilingual LLM Safety Research: From Measuring the Language Gap to Mitigating It**|Zheng-Xin Yong et.al.|[2505.24119](http://arxiv.org/abs/2505.24119)|null|
+|**2025-05-29**|**OMNIGUARD: An Efficient Approach for AI Safety Moderation Across Modalities**|Sahil Verma et.al.|[2505.23856](http://arxiv.org/abs/2505.23856)|null|
+|**2025-05-27**|**Watermarking Without Standards Is Not AI Governance**|Alexander Nemecek et.al.|[2505.23814](http://arxiv.org/abs/2505.23814)|null|
+|**2025-05-29**|**SafeScientist: Toward Risk-Aware Scientific Discoveries by LLM Agents**|Kunlun Zhu et.al.|[2505.23559](http://arxiv.org/abs/2505.23559)|**[link](https://github.com/ulab-uiuc/safescientist)**|
 |**2025-05-29**|**Adaptive Jailbreaking Strategies Based on the Semantic Understanding Capabilities of Large Language Models**|Mingyu Yu et.al.|[2505.23404](http://arxiv.org/abs/2505.23404)|null|
 |**2025-05-28**|**Bridging Distribution Shift and AI Safety: Conceptual and Methodological Synergies**|Chenruo Liu et.al.|[2505.22829](http://arxiv.org/abs/2505.22829)|null|
 |**2025-05-28**|**TensorShield: Safeguarding On-Device Inference by Shielding Critical DNN Tensors with TEE**|Tong Sun et.al.|[2505.22735](http://arxiv.org/abs/2505.22735)|null|
@@ -105,8 +110,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-29**|**Securing AI Agents with Information-Flow Control**|Manuel Costa et.al.|[2505.23643](http://arxiv.org/abs/2505.23643)|null|
-|**2025-05-29**|**Understanding Refusal in Language Models with Sparse Autoencoders**|Wei Jie Yeo et.al.|[2505.23556](http://arxiv.org/abs/2505.23556)|null|
+|**2025-05-30**|**TRIDENT: Enhancing Large Language Model Safety with Tri-Dimensional Diversified Red-Teaming Data Synthesis**|Xiaorui Wu et.al.|[2505.24672](http://arxiv.org/abs/2505.24672)|null|
+|**2025-05-30**|**Benchmarking Large Language Models for Cryptanalysis and Mismatched-Generalization**|Utsav Maskey et.al.|[2505.24621](http://arxiv.org/abs/2505.24621)|null|
+|**2025-05-30**|**AMIA: Automatic Masking and Joint Intention Analysis Makes LVLMs Robust Jailbreak Defenders**|Yuqi Zhang et.al.|[2505.24519](http://arxiv.org/abs/2505.24519)|null|
+|**2025-05-30**|**Model Unlearning via Sparse Autoencoder Subspace Guided Projections**|Xu Wang et.al.|[2505.24428](http://arxiv.org/abs/2505.24428)|null|
+|**2025-05-30**|**From Hallucinations to Jailbreaks: Rethinking the Vulnerability of Large Foundation Models**|Haibo Jin et.al.|[2505.24232](http://arxiv.org/abs/2505.24232)|null|
+|**2025-05-30**|**SentinelAgent: Graph-based Anomaly Detection in Multi-Agent Systems**|Xu He et.al.|[2505.24201](http://arxiv.org/abs/2505.24201)|null|
+|**2025-05-29**|**LLM Agents Should Employ Security Principles**|Kaiyuan Zhang et.al.|[2505.24019](http://arxiv.org/abs/2505.24019)|null|
+|**2025-05-29**|**Securing AI Agents with Information-Flow Control**|Manuel Costa et.al.|[2505.23643](http://arxiv.org/abs/2505.23643)|**[link](https://github.com/microsoft/fides)**|
+|**2025-05-29**|**Understanding Refusal in Language Models with Sparse Autoencoders**|Wei Jie Yeo et.al.|[2505.23556](http://arxiv.org/abs/2505.23556)|**[link](https://github.com/wj210/refusal_sae)**|
 |**2025-05-29**|**Adaptive Jailbreaking Strategies Based on the Semantic Understanding Capabilities of Large Language Models**|Mingyu Yu et.al.|[2505.23404](http://arxiv.org/abs/2505.23404)|null|
 |**2025-05-28**|**Operationalizing CaMeL: Strengthening LLM Defenses for Enterprise Deployment**|Krti Tallam et.al.|[2505.22852](http://arxiv.org/abs/2505.22852)|null|
 |**2025-05-28**|**Adaptive Detoxification: Safeguarding General Capabilities of LLMs through Toxicity-Aware Knowledge Editing**|Yifan Lu et.al.|[2505.22298](http://arxiv.org/abs/2505.22298)|null|
@@ -296,6 +308,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**ADA: Automated Moving Target Defense for AI Workloads via Ephemeral Infrastructure-Native Rotation in Kubernetes**|Akram Sheriff et.al.|[2505.23805](http://arxiv.org/abs/2505.23805)|null|
 |**2025-05-29**|**MCP Safety Training: Learning to Refuse Falsely Benign MCP Exploits using Improved Preference Alignment**|John Halloran et.al.|[2505.23634](http://arxiv.org/abs/2505.23634)|null|
 |**2025-05-28**|**AgentDNS: A Root Domain Naming System for LLM Agents**|Enfang Cui et.al.|[2505.22368](http://arxiv.org/abs/2505.22368)|null|
 |**2025-05-23**|**Gaming Tool Preferences in Agentic LLMs**|Kazem Faghih et.al.|[2505.18135](http://arxiv.org/abs/2505.18135)|**[link](https://github.com/kazemf78/Gaming-Tool-Preferences)**|
@@ -317,6 +330,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**Seven Security Challenges That Must be Solved in Cross-domain Multi-agent LLM Systems**|Ronny Ko et.al.|[2505.23847](http://arxiv.org/abs/2505.23847)|null|
 |**2025-05-27**|**JavaSith: A Client-Side Framework for Analyzing Potentially Malicious Extensions in Browsers, VS Code, and NPM Packages**|Avihay Cohen et.al.|[2505.21263](http://arxiv.org/abs/2505.21263)|null|
 |**2025-05-13**|**LibVulnWatch: A Deep Assessment Agent System and Leaderboard for Uncovering Hidden Vulnerabilities in Open-Source AI Libraries**|Zekun Wu et.al.|[2505.08842](http://arxiv.org/abs/2505.08842)|null|
 |**2025-05-07**|**Safeguard-by-Development: A Privacy-Enhanced Development Paradigm for Multi-Agent Collaboration Systems**|Jian Cui et.al.|[2505.04799](http://arxiv.org/abs/2505.04799)|null|
