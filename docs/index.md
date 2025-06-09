@@ -24,12 +24,12 @@ layout: default
 |**2025-05-30**|**TRIDENT: Enhancing Large Language Model Safety with Tri-Dimensional Diversified Red-Teaming Data Synthesis**|Xiaorui Wu et.al.|[2505.24672](http://arxiv.org/abs/2505.24672)|null|
 |**2025-05-30**|**Benchmarking Large Language Models for Cryptanalysis and Mismatched-Generalization**|Utsav Maskey et.al.|[2505.24621](http://arxiv.org/abs/2505.24621)|null|
 |**2025-05-30**|**The State of Multilingual LLM Safety Research: From Measuring the Language Gap to Mitigating It**|Zheng-Xin Yong et.al.|[2505.24119](http://arxiv.org/abs/2505.24119)|null|
-|**2025-05-29**|**OMNIGUARD: An Efficient Approach for AI Safety Moderation Across Modalities**|Sahil Verma et.al.|[2505.23856](http://arxiv.org/abs/2505.23856)|null|
+|**2025-05-29**|**OMNIGUARD: An Efficient Approach for AI Safety Moderation Across Modalities**|Sahil Verma et.al.|[2505.23856](http://arxiv.org/abs/2505.23856)|**[link](https://github.com/vsahil/omniguard)**|
 |**2025-05-27**|**Watermarking Without Standards Is Not AI Governance**|Alexander Nemecek et.al.|[2505.23814](http://arxiv.org/abs/2505.23814)|null|
 |**2025-05-29**|**SafeScientist: Toward Risk-Aware Scientific Discoveries by LLM Agents**|Kunlun Zhu et.al.|[2505.23559](http://arxiv.org/abs/2505.23559)|**[link](https://github.com/ulab-uiuc/safescientist)**|
 |**2025-05-29**|**Adaptive Jailbreaking Strategies Based on the Semantic Understanding Capabilities of Large Language Models**|Mingyu Yu et.al.|[2505.23404](http://arxiv.org/abs/2505.23404)|null|
 |**2025-05-28**|**Bridging Distribution Shift and AI Safety: Conceptual and Methodological Synergies**|Chenruo Liu et.al.|[2505.22829](http://arxiv.org/abs/2505.22829)|null|
-|**2025-05-28**|**TensorShield: Safeguarding On-Device Inference by Shielding Critical DNN Tensors with TEE**|Tong Sun et.al.|[2505.22735](http://arxiv.org/abs/2505.22735)|null|
+|**2025-05-28**|**TensorShield: Safeguarding On-Device Inference by Shielding Critical DNN Tensors with TEE**|Tong Sun et.al.|[2505.22735](http://arxiv.org/abs/2505.22735)|**[link](https://github.com/suntong30/tensorshield)**|
 |**2025-05-27**|**Expert Survey: AI Reliability & Security Research Priorities**|Joe O'Brien et.al.|[2505.21664](http://arxiv.org/abs/2505.21664)|null|
 |**2025-05-27**|**Preventing Adversarial AI Attacks Against Autonomous Situational Awareness: A Maritime Case Study**|Mathew J. Walter et.al.|[2505.21609](http://arxiv.org/abs/2505.21609)|null|
 |**2025-05-27**|**SOSBENCH: Benchmarking Safety Alignment on Scientific Knowledge**|Fengqing Jiang et.al.|[2505.21605](http://arxiv.org/abs/2505.21605)|null|
@@ -153,7 +153,7 @@ layout: default
 |**2025-05-28**|**Adaptive Detoxification: Safeguarding General Capabilities of LLMs through Toxicity-Aware Knowledge Editing**|Yifan Lu et.al.|[2505.22298](http://arxiv.org/abs/2505.22298)|null|
 |**2025-05-28**|**Test-Time Immunization: A Universal Defense Framework Against Jailbreaks for (Multimodal) Large Language Models**|Yongcan Yu et.al.|[2505.22271](http://arxiv.org/abs/2505.22271)|null|
 |**2025-05-28**|**Jailbreak Distillation: Renewable Safety Benchmarking**|Jingyu Zhang et.al.|[2505.22037](http://arxiv.org/abs/2505.22037)|null|
-|**2025-05-28**|**RedTeamCUA: Realistic Adversarial Testing of Computer-Use Agents in Hybrid Web-OS Environments**|Zeyi Liao et.al.|[2505.21936](http://arxiv.org/abs/2505.21936)|null|
+|**2025-05-28**|**RedTeamCUA: Realistic Adversarial Testing of Computer-Use Agents in Hybrid Web-OS Environments**|Zeyi Liao et.al.|[2505.21936](http://arxiv.org/abs/2505.21936)|**[link](https://github.com/osu-nlp-group/redteamcua)**|
 |**2025-05-27**|**Towards Safety Reasoning in LLMs: AI-agentic Deliberation for Policy-embedded CoT Data Creation**|Tharindu Kumarage et.al.|[2505.21784](http://arxiv.org/abs/2505.21784)|null|
 |**2025-05-26**|**Benign-to-Toxic Jailbreaking: Inducing Harmful Responses from Harmless Prompts**|Hee-Seon Kim et.al.|[2505.21556](http://arxiv.org/abs/2505.21556)|null|
 |**2025-05-28**|**Breaking the Ceiling: Exploring the Potential of Jailbreak Attacks through Expanding Strategy Space**|Yao Huang et.al.|[2505.21277](http://arxiv.org/abs/2505.21277)|**[link](https://github.com/aries-iai/cl-gso)**|
