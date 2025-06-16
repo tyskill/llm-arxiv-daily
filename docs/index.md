@@ -30,7 +30,7 @@ layout: default
 |**2025-05-31**|**Wide Reflective Equilibrium in LLM Alignment: Bridging Moral Epistemology and AI Safety**|Matthew Brophy et.al.|[2506.00415](http://arxiv.org/abs/2506.00415)|null|
 |**2025-05-30**|**Let Them Down Easy! Contextual Effects of LLM Guardrails on User Perceptions and Preferences**|Mingqian Zheng et.al.|[2506.00195](http://arxiv.org/abs/2506.00195)|null|
 |**2025-05-30**|**Disentangled Safety Adapters Enable Efficient Guardrails and Flexible Inference-Time Alignment**|Kundan Krishna et.al.|[2506.00166](http://arxiv.org/abs/2506.00166)|null|
-|**2025-05-30**|**TRIDENT: Enhancing Large Language Model Safety with Tri-Dimensional Diversified Red-Teaming Data Synthesis**|Xiaorui Wu et.al.|[2505.24672](http://arxiv.org/abs/2505.24672)|null|
+|**2025-05-30**|**TRIDENT: Enhancing Large Language Model Safety with Tri-Dimensional Diversified Red-Teaming Data Synthesis**|Xiaorui Wu et.al.|[2505.24672](http://arxiv.org/abs/2505.24672)|**[link](https://github.com/fisht0ucher/trident)**|
 |**2025-05-30**|**Benchmarking Large Language Models for Cryptanalysis and Mismatched-Generalization**|Utsav Maskey et.al.|[2505.24621](http://arxiv.org/abs/2505.24621)|null|
 |**2025-05-30**|**The State of Multilingual LLM Safety Research: From Measuring the Language Gap to Mitigating It**|Zheng-Xin Yong et.al.|[2505.24119](http://arxiv.org/abs/2505.24119)|null|
 |**2025-05-29**|**OMNIGUARD: An Efficient Approach for AI Safety Moderation Across Modalities**|Sahil Verma et.al.|[2505.23856](http://arxiv.org/abs/2505.23856)|**[link](https://github.com/vsahil/omniguard)**|
@@ -45,7 +45,7 @@ layout: default
 |**2025-05-26**|**Benign-to-Toxic Jailbreaking: Inducing Harmful Responses from Harmless Prompts**|Hee-Seon Kim et.al.|[2505.21556](http://arxiv.org/abs/2505.21556)|null|
 |**2025-05-27**|**The Multilingual Divide and Its Impact on Global AI Safety**|Aidan Peppin et.al.|[2505.21344](http://arxiv.org/abs/2505.21344)|null|
 |**2025-05-27**|**Red-Teaming Text-to-Image Systems by Rule-based Preference Modeling**|Yichuan Cao et.al.|[2505.21074](http://arxiv.org/abs/2505.21074)|null|
-|**2025-05-26**|**VSCBench: Bridging the Gap in Vision-Language Model Safety Calibration**|Jiahui Geng et.al.|[2505.20362](http://arxiv.org/abs/2505.20362)|null|
+|**2025-05-26**|**VSCBench: Bridging the Gap in Vision-Language Model Safety Calibration**|Jiahui Geng et.al.|[2505.20362](http://arxiv.org/abs/2505.20362)|**[link](https://github.com/jiahuigeng/vscbench)**|
 |**2025-05-26**|**What Really Matters in Many-Shot Attacks? An Empirical Study of Long-Context Vulnerabilities in LLMs**|Sangyeop Kim et.al.|[2505.19773](http://arxiv.org/abs/2505.19773)|null|
 |**2025-05-25**|**When Ethics and Payoffs Diverge: LLM Agents in Morally Charged Social Dilemmas**|Steffen Backmann et.al.|[2505.19212](http://arxiv.org/abs/2505.19212)|**[link](https://github.com/sbackmann/moralsim)**|
 |**2025-05-25**|**GhostPrompt: Jailbreaking Text-to-image Generative Models based on Dynamic Optimization**|Zixuan Chen et.al.|[2505.18979](http://arxiv.org/abs/2505.18979)|null|
@@ -154,19 +154,19 @@ layout: default
 |**2025-06-05**|**Sentinel: SOTA model to protect against prompt injections**|Dror Ivry et.al.|[2506.05446](http://arxiv.org/abs/2506.05446)|null|
 |**2025-06-05**|**Why LLM Safety Guardrails Collapse After Fine-tuning: A Similarity Analysis Between Alignment and Fine-tuning Datasets**|Lei Hsiung et.al.|[2506.05346](http://arxiv.org/abs/2506.05346)|null|
 |**2025-06-05**|**HoliSafe: Holistic Safety Benchmarking and Modeling with Safety Meta Token for Vision-Language Model**|Youngwan Lee et.al.|[2506.04704](http://arxiv.org/abs/2506.04704)|null|
-|**2025-06-06**|**TracLLM: A Generic Framework for Attributing Long Context LLMs**|Yanting Wang et.al.|[2506.04202](http://arxiv.org/abs/2506.04202)|null|
-|**2025-06-03**|**Adversarial Attacks on Robotic Vision Language Action Models**|Eliot Krzysztof Jones et.al.|[2506.03350](http://arxiv.org/abs/2506.03350)|null|
+|**2025-06-06**|**TracLLM: A Generic Framework for Attributing Long Context LLMs**|Yanting Wang et.al.|[2506.04202](http://arxiv.org/abs/2506.04202)|**[link](https://github.com/wang-yanting/tracllm)**|
+|**2025-06-03**|**Adversarial Attacks on Robotic Vision Language Action Models**|Eliot Krzysztof Jones et.al.|[2506.03350](http://arxiv.org/abs/2506.03350)|**[link](https://github.com/eliotjones1/robogcg)**|
 |**2025-06-03**|**It's the Thought that Counts: Evaluating the Attempts of Frontier LLMs to Persuade on Harmful Topics**|Matthew Kowal et.al.|[2506.02873](http://arxiv.org/abs/2506.02873)|null|
 |**2025-06-03**|**ATAG: AI-Agent Application Threat Assessment with Attack Graphs**|Parth Atulbhai Gandhi et.al.|[2506.02859](http://arxiv.org/abs/2506.02859)|null|
 |**2025-06-03**|**From Prompts to Protection: Large Language Model-Enabled In-Context Learning for Smart Public Safety UAV**|Yousef Emami et.al.|[2506.02649](http://arxiv.org/abs/2506.02649)|null|
-|**2025-06-03**|**BitBypass: A New Direction in Jailbreaking Aligned Large Language Models with Bitstream Camouflage**|Kalyan Nakka et.al.|[2506.02479](http://arxiv.org/abs/2506.02479)|null|
-|**2025-06-03**|**VPI-Bench: Visual Prompt Injection Attacks for Computer-Use Agents**|Tri Cao et.al.|[2506.02456](http://arxiv.org/abs/2506.02456)|null|
-|**2025-06-02**|**ReGA: Representation-Guided Abstraction for Model-based Safeguarding of LLMs**|Zeming Wei et.al.|[2506.01770](http://arxiv.org/abs/2506.01770)|null|
+|**2025-06-03**|**BitBypass: A New Direction in Jailbreaking Aligned Large Language Models with Bitstream Camouflage**|Kalyan Nakka et.al.|[2506.02479](http://arxiv.org/abs/2506.02479)|**[link](https://github.com/kalyan-nakka/bitbypass)**|
+|**2025-06-03**|**VPI-Bench: Visual Prompt Injection Attacks for Computer-Use Agents**|Tri Cao et.al.|[2506.02456](http://arxiv.org/abs/2506.02456)|**[link](https://github.com/cua-framework/agents)**|
+|**2025-06-02**|**ReGA: Representation-Guided Abstraction for Model-based Safeguarding of LLMs**|Zeming Wei et.al.|[2506.01770](http://arxiv.org/abs/2506.01770)|**[link](https://github.com/weizeming/rega)**|
 |**2025-06-02**|**Align is not Enough: Multimodal Universal Jailbreak Attack against Multimodal Large Language Models**|Youze Wang et.al.|[2506.01307](http://arxiv.org/abs/2506.01307)|null|
 |**2025-06-01**|**Simple Prompt Injection Attacks Can Leak Personal Data Observed by LLM Agents During Task Execution**|Meysam Alizadeh et.al.|[2506.01055](http://arxiv.org/abs/2506.01055)|null|
 |**2025-06-01**|**Predicting Empirical AI Research Outcomes with Language Models**|Jiaxin Wen et.al.|[2506.00794](http://arxiv.org/abs/2506.00794)|null|
 |**2025-06-01**|**Jailbreak-R1: Exploring the Jailbreak Capabilities of LLMs via Reinforcement Learning**|Weiyang Guo et.al.|[2506.00782](http://arxiv.org/abs/2506.00782)|null|
-|**2025-05-30**|**TRIDENT: Enhancing Large Language Model Safety with Tri-Dimensional Diversified Red-Teaming Data Synthesis**|Xiaorui Wu et.al.|[2505.24672](http://arxiv.org/abs/2505.24672)|null|
+|**2025-05-30**|**TRIDENT: Enhancing Large Language Model Safety with Tri-Dimensional Diversified Red-Teaming Data Synthesis**|Xiaorui Wu et.al.|[2505.24672](http://arxiv.org/abs/2505.24672)|**[link](https://github.com/fisht0ucher/trident)**|
 |**2025-05-30**|**Benchmarking Large Language Models for Cryptanalysis and Mismatched-Generalization**|Utsav Maskey et.al.|[2505.24621](http://arxiv.org/abs/2505.24621)|null|
 |**2025-05-30**|**AMIA: Automatic Masking and Joint Intention Analysis Makes LVLMs Robust Jailbreak Defenders**|Yuqi Zhang et.al.|[2505.24519](http://arxiv.org/abs/2505.24519)|null|
 |**2025-05-30**|**Model Unlearning via Sparse Autoencoder Subspace Guided Projections**|Xu Wang et.al.|[2505.24428](http://arxiv.org/abs/2505.24428)|null|
@@ -334,7 +334,7 @@ layout: default
 |**2025-03-29**|**Encrypted Prompt: Securing LLM Applications Against Unauthorized Actions**|Shih-Han Chan et.al.|[2503.23250](http://arxiv.org/abs/2503.23250)|null|
 |**2025-03-27**|**Prompt, Divide, and Conquer: Bypassing Large Language Model Safety Filters via Segmented and Distributed Prompt Processing**|Johan Wahréus et.al.|[2503.21598](http://arxiv.org/abs/2503.21598)|null|
 |**2025-03-27**|**Harnessing Chain-of-Thought Metadata for Task Routing and Adversarial Prompt Detection**|Ryan Marinelli et.al.|[2503.21464](http://arxiv.org/abs/2503.21464)|**[link](https://github.com/rymarinelli/number_of_thoughts)**|
-|**2025-03-26**|**Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy**|Joonhyun Jeong et.al.|[2503.20823](http://arxiv.org/abs/2503.20823)|null|
+|**2025-03-26**|**Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy**|Joonhyun Jeong et.al.|[2503.20823](http://arxiv.org/abs/2503.20823)|**[link](https://github.com/naver-ai/jood)**|
 |**2025-03-26**|**Iterative Prompting with Persuasion Skills in Jailbreaking Large Language Models**|Shih-Wen Ke et.al.|[2503.20320](http://arxiv.org/abs/2503.20320)|null|
 |**2025-03-26**|**sudo rm -rf agentic_security**|Sejin Lee et.al.|[2503.20279](http://arxiv.org/abs/2503.20279)|**[link](https://github.com/AIM-Intelligence/SUDO)**|
 |**2025-03-24**|**MIRAGE: Multimodal Immersive Reasoning and Guided Exploration for Red-Team Jailbreak Attacks**|Wenhao You et.al.|[2503.19134](http://arxiv.org/abs/2503.19134)|null|
