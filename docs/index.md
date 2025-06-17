@@ -2,13 +2,20 @@
 layout: default
 ---
 
-## Updated on 2025.06.16
+## Updated on 2025.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Security
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**Safe-Child-LLM: A Developmental Benchmark for Evaluating LLM Safety in Child-AI Interactions**|Junfeng Jiao et.al.|[2506.13510](http://arxiv.org/abs/2506.13510)|null|
+|**2025-06-16**|**Position: Certified Robustness Does Not (Yet) Imply Model Security**|Andrew C. Cullen et.al.|[2506.13024](http://arxiv.org/abs/2506.13024)|null|
+|**2025-06-15**|**Intriguing Frequency Interpretation of Adversarial Robustness for CNNs and ViTs**|Lu Chen et.al.|[2506.12875](http://arxiv.org/abs/2506.12875)|null|
+|**2025-06-14**|**OpenUnlearning: Accelerating LLM Unlearning via Unified Benchmarking of Methods and Metrics**|Vineeth Dorna et.al.|[2506.12618](http://arxiv.org/abs/2506.12618)|null|
+|**2025-06-14**|**Tiered Agentic Oversight: A Hierarchical Multi-Agent System for AI Safety in Healthcare**|Yubin Kim et.al.|[2506.12482](http://arxiv.org/abs/2506.12482)|null|
+|**2025-06-13**|**InfoFlood: Jailbreaking Large Language Models with Information Overload**|Advait Yadav et.al.|[2506.12274](http://arxiv.org/abs/2506.12274)|null|
+|**2025-06-13**|**Hatevolution: What Static Benchmarks Don't Tell Us**|Chiara Di Bonaventura et.al.|[2506.12148](http://arxiv.org/abs/2506.12148)|null|
 |**2025-06-13**|**Improving Large Language Model Safety with Contrastive Representation Learning**|Samuel Simko et.al.|[2506.11938](http://arxiv.org/abs/2506.11938)|null|
 |**2025-06-13**|**Model Organisms for Emergent Misalignment**|Edward Turner et.al.|[2506.11613](http://arxiv.org/abs/2506.11613)|null|
 |**2025-06-12**|**The Alignment Trap: Complexity Barriers**|Jasper Yao et.al.|[2506.10304](http://arxiv.org/abs/2506.10304)|null|
@@ -131,6 +138,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**Safe-Child-LLM: A Developmental Benchmark for Evaluating LLM Safety in Child-AI Interactions**|Junfeng Jiao et.al.|[2506.13510](http://arxiv.org/abs/2506.13510)|null|
+|**2025-06-15**|**Jailbreak Strength and Model Similarity Predict Transferability**|Rico Angell et.al.|[2506.12913](http://arxiv.org/abs/2506.12913)|null|
+|**2025-06-15**|**Universal Jailbreak Suffixes Are Strong Attention Hijackers**|Matan Ben-Tov et.al.|[2506.12880](http://arxiv.org/abs/2506.12880)|null|
+|**2025-06-15**|**SecurityLingua: Efficient Defense of LLM Jailbreak Attacks via Security-Aware Prompt Compression**|Yucheng Li et.al.|[2506.12707](http://arxiv.org/abs/2506.12707)|null|
+|**2025-06-15**|**Alphabet Index Mapping: Jailbreaking LLMs through Semantic Dissimilarity**|Bilal Saleh Husain et.al.|[2506.12685](http://arxiv.org/abs/2506.12685)|null|
+|**2025-06-14**|**Pushing the Limits of Safety: A Technical Report on the ATLAS Challenge 2025**|Zonghao Ying et.al.|[2506.12430](http://arxiv.org/abs/2506.12430)|null|
+|**2025-06-14**|**Exploring the Secondary Risks of Large Language Models**|Jiawei Chen et.al.|[2506.12382](http://arxiv.org/abs/2506.12382)|null|
+|**2025-06-14**|**QGuard:Question-based Zero-shot Guard for Multi-modal LLM Safety**|Taegyeong Lee et.al.|[2506.12299](http://arxiv.org/abs/2506.12299)|null|
+|**2025-06-13**|**InfoFlood: Jailbreaking Large Language Models with Information Overload**|Advait Yadav et.al.|[2506.12274](http://arxiv.org/abs/2506.12274)|null|
 |**2025-06-13**|**Investigating Vulnerabilities and Defenses Against Audio-Visual Attacks: A Comprehensive Survey Emphasizing Multimodal Models**|Jinming Wen et.al.|[2506.11521](http://arxiv.org/abs/2506.11521)|null|
 |**2025-06-12**|**How Well Can Reasoning Models Identify and Recover from Unhelpful Thoughts?**|Sohee Yang et.al.|[2506.10979](http://arxiv.org/abs/2506.10979)|null|
 |**2025-06-12**|**SoK: Evaluating Jailbreak Guardrails for Large Language Models**|Xunguang Wang et.al.|[2506.10597](http://arxiv.org/abs/2506.10597)|null|
@@ -364,6 +380,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers**|Mohammed Mehedi Hasan et.al.|[2506.13538](http://arxiv.org/abs/2506.13538)|null|
 |**2025-06-12**|**QuantMCP: Grounding Large Language Models in Verifiable Financial Reality**|Yifan Zeng et.al.|[2506.06622](http://arxiv.org/abs/2506.06622)|null|
 |**2025-05-26**|**Survey of LLM Agent Communication with MCP: A Software Design Pattern Centric Review**|Anjana Sarkar et.al.|[2506.05364](http://arxiv.org/abs/2506.05364)|null|
 |**2025-06-05**|**Beyond the Protocol: Unveiling Attack Vectors in the Model Context Protocol Ecosystem**|Hao Song et.al.|[2506.02040](http://arxiv.org/abs/2506.02040)|**[link](https://github.com/MCP-Security/MCP-Artifact)**|
