@@ -21,15 +21,15 @@ layout: default
 |**2025-06-14**|**Tiered Agentic Oversight: A Hierarchical Multi-Agent System for AI Safety in Healthcare**|Yubin Kim et.al.|[2506.12482](http://arxiv.org/abs/2506.12482)|null|
 |**2025-06-13**|**InfoFlood: Jailbreaking Large Language Models with Information Overload**|Advait Yadav et.al.|[2506.12274](http://arxiv.org/abs/2506.12274)|null|
 |**2025-06-13**|**Hatevolution: What Static Benchmarks Don't Tell Us**|Chiara Di Bonaventura et.al.|[2506.12148](http://arxiv.org/abs/2506.12148)|null|
-|**2025-06-13**|**Improving Large Language Model Safety with Contrastive Representation Learning**|Samuel Simko et.al.|[2506.11938](http://arxiv.org/abs/2506.11938)|null|
+|**2025-06-13**|**Improving Large Language Model Safety with Contrastive Representation Learning**|Samuel Simko et.al.|[2506.11938](http://arxiv.org/abs/2506.11938)|**[link](https://github.com/samuelsimko/crl-llm-defense)**|
 |**2025-06-13**|**Model Organisms for Emergent Misalignment**|Edward Turner et.al.|[2506.11613](http://arxiv.org/abs/2506.11613)|null|
 |**2025-06-12**|**The Alignment Trap: Complexity Barriers**|Jasper Yao et.al.|[2506.10304](http://arxiv.org/abs/2506.10304)|null|
 |**2025-06-11**|**Data-Centric Safety and Ethical Measures for Data and AI Governance**|Srija Chakraborty et.al.|[2506.10217](http://arxiv.org/abs/2506.10217)|null|
-|**2025-06-09**|**LLMs Caught in the Crossfire: Malware Requests and Jailbreak Challenges**|Haoyang Li et.al.|[2506.10022](http://arxiv.org/abs/2506.10022)|null|
+|**2025-06-09**|**LLMs Caught in the Crossfire: Malware Requests and Jailbreak Challenges**|Haoyang Li et.al.|[2506.10022](http://arxiv.org/abs/2506.10022)|**[link](https://github.com/MAIL-Tele-AI/MalwareBench)**|
 |**2025-06-08**|**Enhancing the Safety of Medical Vision-Language Models by Synthetic Demonstrations**|Zhiyu Xue et.al.|[2506.09067](http://arxiv.org/abs/2506.09067)|null|
 |**2025-06-11**|**Societal AI Research Has Become Less Interdisciplinary**|Dror Kris Markus et.al.|[2506.08738](http://arxiv.org/abs/2506.08738)|null|
-|**2025-06-11**|**AsFT: Anchoring Safety During LLM Fine-Tuning Within Narrow Safety Basin**|Shuo Yang et.al.|[2506.08473](http://arxiv.org/abs/2506.08473)|null|
-|**2025-06-06**|**Benchmarking Misuse Mitigation Against Covert Adversaries**|Davis Brown et.al.|[2506.06414](http://arxiv.org/abs/2506.06414)|null|
+|**2025-06-11**|**AsFT: Anchoring Safety During LLM Fine-Tuning Within Narrow Safety Basin**|Shuo Yang et.al.|[2506.08473](http://arxiv.org/abs/2506.08473)|**[link](https://github.com/pku-yuangroup/asft)**|
+|**2025-06-06**|**Benchmarking Misuse Mitigation Against Covert Adversaries**|Davis Brown et.al.|[2506.06414](http://arxiv.org/abs/2506.06414)|**[link](https://github.com/davisrbr/bsd-misuse)**|
 |**2025-06-03**|**Rational Superautotrophic Diplomacy (SupraAD); A Conceptual Framework for Alignment Based on Interdisciplinary Findings on the Fundamentals of Cognition**|Andrea Morris et.al.|[2506.05389](http://arxiv.org/abs/2506.05389)|null|
 |**2025-06-05**|**Normative Conflicts and Shallow AI Alignment**|Raphaël Millière et.al.|[2506.04679](http://arxiv.org/abs/2506.04679)|null|
 |**2025-06-04**|**Watermarking Degrades Alignment in Language Models: Analysis and Mitigation**|Apurv Verma et.al.|[2506.04462](http://arxiv.org/abs/2506.04462)|**[link](https://github.com/dapurv5/alignmark)**|
@@ -159,15 +159,15 @@ layout: default
 |**2025-06-15**|**Universal Jailbreak Suffixes Are Strong Attention Hijackers**|Matan Ben-Tov et.al.|[2506.12880](http://arxiv.org/abs/2506.12880)|**[link](https://github.com/matanbt/interp-jailbreak)**|
 |**2025-06-15**|**SecurityLingua: Efficient Defense of LLM Jailbreak Attacks via Security-Aware Prompt Compression**|Yucheng Li et.al.|[2506.12707](http://arxiv.org/abs/2506.12707)|null|
 |**2025-06-15**|**Alphabet Index Mapping: Jailbreaking LLMs through Semantic Dissimilarity**|Bilal Saleh Husain et.al.|[2506.12685](http://arxiv.org/abs/2506.12685)|null|
-|**2025-06-14**|**Pushing the Limits of Safety: A Technical Report on the ATLAS Challenge 2025**|Zonghao Ying et.al.|[2506.12430](http://arxiv.org/abs/2506.12430)|null|
+|**2025-06-14**|**Pushing the Limits of Safety: A Technical Report on the ATLAS Challenge 2025**|Zonghao Ying et.al.|[2506.12430](http://arxiv.org/abs/2506.12430)|**[link](https://github.com/ny1024/atlas_challenge_2025)**|
 |**2025-06-14**|**Exploring the Secondary Risks of Large Language Models**|Jiawei Chen et.al.|[2506.12382](http://arxiv.org/abs/2506.12382)|null|
 |**2025-06-14**|**QGuard:Question-based Zero-shot Guard for Multi-modal LLM Safety**|Taegyeong Lee et.al.|[2506.12299](http://arxiv.org/abs/2506.12299)|null|
 |**2025-06-13**|**InfoFlood: Jailbreaking Large Language Models with Information Overload**|Advait Yadav et.al.|[2506.12274](http://arxiv.org/abs/2506.12274)|null|
 |**2025-06-13**|**Investigating Vulnerabilities and Defenses Against Audio-Visual Attacks: A Comprehensive Survey Emphasizing Multimodal Models**|Jinming Wen et.al.|[2506.11521](http://arxiv.org/abs/2506.11521)|null|
 |**2025-06-12**|**How Well Can Reasoning Models Identify and Recover from Unhelpful Thoughts?**|Sohee Yang et.al.|[2506.10979](http://arxiv.org/abs/2506.10979)|null|
-|**2025-06-12**|**SoK: Evaluating Jailbreak Guardrails for Large Language Models**|Xunguang Wang et.al.|[2506.10597](http://arxiv.org/abs/2506.10597)|null|
+|**2025-06-12**|**SoK: Evaluating Jailbreak Guardrails for Large Language Models**|Xunguang Wang et.al.|[2506.10597](http://arxiv.org/abs/2506.10597)|**[link](https://github.com/xunguangwang/sok4jailbreakguardrails)**|
 |**2025-06-10**|**Evaluation empirique de la sécurisation et de l'alignement de ChatGPT et Gemini: analyse comparative des vulnérabilités par expérimentations de jailbreaks**|Rafaël Nouailles et.al.|[2506.10029](http://arxiv.org/abs/2506.10029)|null|
-|**2025-06-09**|**LLMs Caught in the Crossfire: Malware Requests and Jailbreak Challenges**|Haoyang Li et.al.|[2506.10022](http://arxiv.org/abs/2506.10022)|null|
+|**2025-06-09**|**LLMs Caught in the Crossfire: Malware Requests and Jailbreak Challenges**|Haoyang Li et.al.|[2506.10022](http://arxiv.org/abs/2506.10022)|**[link](https://github.com/MAIL-Tele-AI/MalwareBench)**|
 |**2025-06-11**|**LLMail-Inject: A Dataset from a Realistic Adaptive Prompt Injection Challenge**|Sahar Abdelnabi et.al.|[2506.09956](http://arxiv.org/abs/2506.09956)|**[link](https://github.com/microsoft/llmail-inject-challenge-analysis)**|
 |**2025-06-11**|**Effective Red-Teaming of Policy-Adherent Agents**|Itay Nakash et.al.|[2506.09600](http://arxiv.org/abs/2506.09600)|null|
 |**2025-06-11**|**AdversariaL attacK sAfety aLIgnment(ALKALI): Safeguarding LLMs through GRACE: Geometric Representation-Aware Contrastive Enhancement- Introducing Adversarial Vulnerability Quality Index (AVQI)**|Danush Khanna et.al.|[2506.08885](http://arxiv.org/abs/2506.08885)|null|
@@ -176,11 +176,11 @@ layout: default
 |**2025-06-11**|**RSafe: Incentivizing proactive reasoning to build robust and adaptive LLM safeguards**|Jingnan Zheng et.al.|[2506.07736](http://arxiv.org/abs/2506.07736)|null|
 |**2025-06-09**|**Evaluating LLMs Robustness in Less Resourced Languages with Proxy Models**|Maciej Chrabąszcz et.al.|[2506.07645](http://arxiv.org/abs/2506.07645)|null|
 |**2025-06-09**|**TwinBreak: Jailbreaking LLM Security Alignments based on Twin Prompts**|Torsten Krauß et.al.|[2506.07596](http://arxiv.org/abs/2506.07596)|null|
-|**2025-06-09**|**When Style Breaks Safety: Defending Language Models Against Superficial Style Alignment**|Yuxin Xiao et.al.|[2506.07452](http://arxiv.org/abs/2506.07452)|null|
+|**2025-06-09**|**When Style Breaks Safety: Defending Language Models Against Superficial Style Alignment**|Yuxin Xiao et.al.|[2506.07452](http://arxiv.org/abs/2506.07452)|**[link](https://github.com/xiaoyuxin1002/SafeStyle)**|
 |**2025-06-09**|**Beyond Jailbreaks: Revealing Stealthier and Broader LLM Security Risks Stemming from Alignment Failures**|Yukai Zhou et.al.|[2506.07402](http://arxiv.org/abs/2506.07402)|null|
-|**2025-06-08**|**AlphaSteer: Learning Refusal Steering with Principled Null-Space Constraint**|Leheng Sheng et.al.|[2506.07022](http://arxiv.org/abs/2506.07022)|null|
+|**2025-06-08**|**AlphaSteer: Learning Refusal Steering with Principled Null-Space Constraint**|Leheng Sheng et.al.|[2506.07022](http://arxiv.org/abs/2506.07022)|**[link](https://github.com/alphalab-ustc/alphasteer)**|
 |**2025-06-10**|**Auditing Black-Box LLM APIs with a Rank-Based Uniformity Test**|Xiaoyuan Zhu et.al.|[2506.06975](http://arxiv.org/abs/2506.06975)|null|
-|**2025-06-06**|**Saffron-1: Towards an Inference Scaling Paradigm for LLM Safety Assurance**|Ruizhong Qiu et.al.|[2506.06444](http://arxiv.org/abs/2506.06444)|null|
+|**2025-06-06**|**Saffron-1: Towards an Inference Scaling Paradigm for LLM Safety Assurance**|Ruizhong Qiu et.al.|[2506.06444](http://arxiv.org/abs/2506.06444)|**[link](https://github.com/q-rz/saffron)**|
 |**2025-06-06**|**Small Models, Big Support: A Local LLM Framework for Teacher-Centric Content Creation and Assessment using RAG and CAG**|Zarreen Reza et.al.|[2506.05925](http://arxiv.org/abs/2506.05925)|null|
 |**2025-06-06**|**To Protect the LLM Agent Against the Prompt Injection Attack with Polymorphic Prompt**|Zhilong Wang et.al.|[2506.05739](http://arxiv.org/abs/2506.05739)|null|
 |**2025-06-05**|**Sentinel: SOTA model to protect against prompt injections**|Dror Ivry et.al.|[2506.05446](http://arxiv.org/abs/2506.05446)|null|
