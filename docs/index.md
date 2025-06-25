@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.06.24
+## Updated on 2025.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Security
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**Persona Features Control Emergent Misalignment**|Miles Wang et.al.|[2506.19823](http://arxiv.org/abs/2506.19823)|null|
+|**2025-06-21**|**AI Safety vs. AI Security: Demystifying the Distinction and Boundaries**|Zhiqiang Lin et.al.|[2506.18932](http://arxiv.org/abs/2506.18932)|null|
 |**2025-06-23**|**How Robust is Model Editing after Fine-Tuning? An Empirical Study on Text-to-Image Diffusion Models**|Feng He et.al.|[2506.18428](http://arxiv.org/abs/2506.18428)|null|
 |**2025-06-23**|**LLM-Integrated Digital Twins for Hierarchical Resource Allocation in 6G Networks**|Majumder Haider et.al.|[2506.18293](http://arxiv.org/abs/2506.18293)|null|
 |**2025-06-22**|**AI Through the Human Lens: Investigating Cognitive Theories in Machine Psychology**|Akash Kundu et.al.|[2506.18156](http://arxiv.org/abs/2506.18156)|null|
@@ -16,7 +18,7 @@ layout: default
 |**2025-06-21**|**Out of Control -- Why Alignment Needs Formal Control Theory (and an Alignment Control Stack)**|Elija Perrier et.al.|[2506.17846](http://arxiv.org/abs/2506.17846)|null|
 |**2025-06-20**|**SAFEx: Analyzing Vulnerabilities of MoE-Based LLMs via Stable Safety-critical Expert Identification**|Zhenglin Lai et.al.|[2506.17368](http://arxiv.org/abs/2506.17368)|null|
 |**2025-06-19**|**PL-Guard: Benchmarking Language Model Safety for Polish**|Aleksandra Krasnodębska et.al.|[2506.16322](http://arxiv.org/abs/2506.16322)|null|
-|**2025-06-19**|**Probing the Robustness of Large Language Models Safety to Latent Perturbations**|Tianle Gu et.al.|[2506.16078](http://arxiv.org/abs/2506.16078)|null|
+|**2025-06-19**|**Probing the Robustness of Large Language Models Safety to Latent Perturbations**|Tianle Gu et.al.|[2506.16078](http://arxiv.org/abs/2506.16078)|**[link](https://github.com/carol-gutianle/latentsafety)**|
 |**2025-06-18**|**LoX: Low-Rank Extrapolation Robustifies LLM Safety Against Fine-tuning**|Gabrel J. Perin et.al.|[2506.15606](http://arxiv.org/abs/2506.15606)|**[link](https://github.com/vita-group/lox)**|
 |**2025-06-17**|**TriGuard: Testing Model Safety with Attribution Entropy, Verification, and Drift**|Dipesh Tharu Mahato et.al.|[2506.14217](http://arxiv.org/abs/2506.14217)|**[link](https://github.com/dipeshbabu/triguard)**|
 |**2025-06-17**|**The Ethics of Generative AI in Anonymous Spaces: A Case Study of 4chan's /pol/ Board**|Parth Gaba et.al.|[2506.14191](http://arxiv.org/abs/2506.14191)|null|
@@ -149,6 +151,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**PrivacyXray: Detecting Privacy Breaches in LLMs through Semantic Consistency and Probability Certainty**|Jinwen He et.al.|[2506.19563](http://arxiv.org/abs/2506.19563)|null|
+|**2025-06-24**|**MSR-Align: Policy-Grounded Multimodal Alignment for Safety-Aware Reasoning in Vision-Language Models**|Yinan Xia et.al.|[2506.19257](http://arxiv.org/abs/2506.19257)|null|
+|**2025-06-23**|**Command-V: Pasting LLM Behaviors via Activation Profiles**|Barry Wang et.al.|[2506.19140](http://arxiv.org/abs/2506.19140)|null|
+|**2025-06-23**|**Enhancing Security in LLM Applications: A Performance Evaluation of Early Detection Systems**|Valerii Gakh et.al.|[2506.19109](http://arxiv.org/abs/2506.19109)|null|
 |**2025-06-23**|**Security Assessment of DeepSeek and GPT Series Models against Jailbreak Attacks**|Xiaodong Wu et.al.|[2506.18543](http://arxiv.org/abs/2506.18543)|null|
 |**2025-06-23**|**NSFW-Classifier Guided Prompt Sanitization for Safe Text-to-Image Generation**|Yu Xie et.al.|[2506.18325](http://arxiv.org/abs/2506.18325)|null|
 |**2025-06-22**|**Multi-turn Jailbreaking via Global Refinement and Active Fabrication**|Hua Tang et.al.|[2506.17881](http://arxiv.org/abs/2506.17881)|null|
@@ -436,6 +442,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**FuncVul: An Effective Function Level Vulnerability Detection Model using LLM and Code Chunk**|Sajal Halder et.al.|[2506.19453](http://arxiv.org/abs/2506.19453)|null|
 |**2025-05-30**|**When GPT Spills the Tea: Comprehensive Assessment of Knowledge File Leakage in GPTs**|Xinyue Shen et.al.|[2506.00197](http://arxiv.org/abs/2506.00197)|null|
 |**2025-06-05**|**Seven Security Challenges That Must be Solved in Cross-domain Multi-agent LLM Systems**|Ronny Ko et.al.|[2505.23847](http://arxiv.org/abs/2505.23847)|null|
 |**2025-05-27**|**JavaSith: A Client-Side Framework for Analyzing Potentially Malicious Extensions in Browsers, VS Code, and NPM Packages**|Avihay Cohen et.al.|[2505.21263](http://arxiv.org/abs/2505.21263)|null|
