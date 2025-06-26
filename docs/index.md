@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.06.25
+## Updated on 2025.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Security
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**Probing AI Safety with Source Code**|Ujwal Narayan et.al.|[2506.20471](http://arxiv.org/abs/2506.20471)|null|
 |**2025-06-24**|**Persona Features Control Emergent Misalignment**|Miles Wang et.al.|[2506.19823](http://arxiv.org/abs/2506.19823)|null|
 |**2025-06-21**|**AI Safety vs. AI Security: Demystifying the Distinction and Boundaries**|Zhiqiang Lin et.al.|[2506.18932](http://arxiv.org/abs/2506.18932)|null|
 |**2025-06-23**|**How Robust is Model Editing after Fine-Tuning? An Empirical Study on Text-to-Image Diffusion Models**|Feng He et.al.|[2506.18428](http://arxiv.org/abs/2506.18428)|null|
