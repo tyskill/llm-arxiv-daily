@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.01
+## Updated on 2025.07.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Security
@@ -17,7 +17,7 @@ layout: default
 |**2025-06-24**|**Report on NSF Workshop on Science of Safe AI**|Rajeev Alur et.al.|[2506.22492](http://arxiv.org/abs/2506.22492)|null|
 |**2025-06-27**|**A Different Approach to AI Safety: Proceedings from the Columbia Convening on Openness in Artificial Intelligence and AI Safety**|Camille François et.al.|[2506.22183](http://arxiv.org/abs/2506.22183)|null|
 |**2025-06-27**|**SODA: Out-of-Distribution Detection in Domain-Shifted Point Clouds via Neighborhood Propagation**|Adam Goodge et.al.|[2506.21892](http://arxiv.org/abs/2506.21892)|null|
-|**2025-06-25**|**The Singapore Consensus on Global AI Safety Research Priorities**|Yoshua Bengio et.al.|[2506.20702](http://arxiv.org/abs/2506.20702)|null|
+|**2025-06-30**|**The Singapore Consensus on Global AI Safety Research Priorities**|Yoshua Bengio et.al.|[2506.20702](http://arxiv.org/abs/2506.20702)|null|
 |**2025-06-25**|**Probing AI Safety with Source Code**|Ujwal Narayan et.al.|[2506.20471](http://arxiv.org/abs/2506.20471)|null|
 |**2025-06-24**|**Persona Features Control Emergent Misalignment**|Miles Wang et.al.|[2506.19823](http://arxiv.org/abs/2506.19823)|null|
 |**2025-06-21**|**AI Safety vs. AI Security: Demystifying the Distinction and Boundaries**|Zhiqiang Lin et.al.|[2506.18932](http://arxiv.org/abs/2506.18932)|null|
@@ -168,6 +168,7 @@ layout: default
 |**2025-06-28**|**Agent-to-Agent Theory of Mind: Testing Interlocutor Awareness among Large Language Models**|Younwoo Choi et.al.|[2506.22957](http://arxiv.org/abs/2506.22957)|null|
 |**2025-06-27**|**VERA: Variational Inference Framework for Jailbreaking Large Language Models**|Anamika Lochab et.al.|[2506.22666](http://arxiv.org/abs/2506.22666)|null|
 |**2025-06-27**|**MetaCipher: A General and Extensible Reinforcement Learning Framework for Obfuscation-Based Jailbreak Attacks on Black-Box LLMs**|Boyuan Chen et.al.|[2506.22557](http://arxiv.org/abs/2506.22557)|null|
+|**2025-07-01**|**Red Teaming for Generative AI, Report on a Copyright-Focused Exercise Completed in an Academic Medical Center**|James Wen et.al.|[2506.22523](http://arxiv.org/abs/2506.22523)|null|
 |**2025-06-27**|**A Different Approach to AI Safety: Proceedings from the Columbia Convening on Openness in Artificial Intelligence and AI Safety**|Camille François et.al.|[2506.22183](http://arxiv.org/abs/2506.22183)|null|
 |**2025-06-27**|**Advancing Jailbreak Strategies: A Hybrid Approach to Exploiting LLM Vulnerabilities and Bypassing Modern Defenses**|Mohamed Ahmed et.al.|[2506.21972](http://arxiv.org/abs/2506.21972)|null|
 |**2025-06-24**|**PrivacyXray: Detecting Privacy Breaches in LLMs through Semantic Consistency and Probability Certainty**|Jinwen He et.al.|[2506.19563](http://arxiv.org/abs/2506.19563)|null|
