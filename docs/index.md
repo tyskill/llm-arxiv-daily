@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2025.07.02
+## Updated on 2025.07.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Security
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**How Well Does GPT-4o Understand Vision? Evaluating Multimodal Foundation Models on Standard Computer Vision Tasks**|Rahul Ramachandran et.al.|[2507.01955](http://arxiv.org/abs/2507.01955)|null|
+|**2025-07-02**|**Out-of-Distribution Detection Methods Answer the Wrong Questions**|Yucen Lily Li et.al.|[2507.01831](http://arxiv.org/abs/2507.01831)|null|
+|**2025-07-01**|**SAFER: Probing Safety in Reward Models with Sparse Autoencoder**|Sihang Li et.al.|[2507.00665](http://arxiv.org/abs/2507.00665)|null|
+|**2025-06-30**|**Thinking About Thinking: SAGE-nano's Inverse Reasoning for Self-Aware Language Models**|Basab Jha et.al.|[2507.00092](http://arxiv.org/abs/2507.00092)|null|
 |**2025-06-30**|**Attestable Audits: Verifiable AI Safety Benchmarks Using Trusted Execution Environments**|Christoph Schnabl et.al.|[2506.23706](http://arxiv.org/abs/2506.23706)|null|
 |**2025-06-30**|**A New Perspective On AI Safety Through Control Theory Methodologies**|Lars Ullrich et.al.|[2506.23703](http://arxiv.org/abs/2506.23703)|null|
 |**2025-06-29**|**Securing AI Systems: A Guide to Known Attacks and Impacts**|Naoto Kiribuchi et.al.|[2506.23296](http://arxiv.org/abs/2506.23296)|null|
@@ -161,6 +165,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**SafePTR: Token-Level Jailbreak Defense in Multimodal LLMs via Prune-then-Restore Mechanism**|Beitao Chen et.al.|[2507.01513](http://arxiv.org/abs/2507.01513)|null|
+|**2025-07-01**|**Reasoning as an Adaptive Defense for Safety**|Taeyoun Kim et.al.|[2507.00971](http://arxiv.org/abs/2507.00971)|null|
+|**2025-07-01**|**SafeMobile: Chain-level Jailbreak Detection and Automated Evaluation for Multimodal Mobile Agents**|Siyuan Liang et.al.|[2507.00841](http://arxiv.org/abs/2507.00841)|null|
+|**2025-07-02**|**Transferable Modeling Strategies for Low-Resource LLM Tasks: A Prompt and Alignment-Based Approach**|Shuangquan Lyu et.al.|[2507.00601](http://arxiv.org/abs/2507.00601)|null|
+|**2025-06-30**|**Linearly Decoding Refused Knowledge in Aligned Language Models**|Aryan Shrivastava et.al.|[2507.00239](http://arxiv.org/abs/2507.00239)|null|
 |**2025-06-30**|**Logit-Gap Steering: Efficient Short-Suffix Jailbreaks for Aligned Large Language Models**|Tung-Ling Li et.al.|[2506.24056](http://arxiv.org/abs/2506.24056)|null|
 |**2025-06-30**|**Leveraging the Potential of Prompt Engineering for Hate Speech Detection in Low-Resource Languages**|Ruhina Tabasshum Prome et.al.|[2506.23930](http://arxiv.org/abs/2506.23930)|null|
 |**2025-06-30**|**Evaluating Multi-Agent Defences Against Jailbreaking Attacks on Large Language Models**|Maria Carolina Cornelia Wit et.al.|[2506.23576](http://arxiv.org/abs/2506.23576)|null|
@@ -432,6 +441,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**Conversational LLMs Simplify Secure Clinical Data Access, Understanding, and Analysis**|Rafi Al Attrach et.al.|[2507.01053](http://arxiv.org/abs/2507.01053)|null|
+|**2025-07-01**|**VTS-Guided AI Interaction Workflow for Business Insights**|Sun Ding et.al.|[2507.00347](http://arxiv.org/abs/2507.00347)|null|
 |**2025-06-30**|**A Large-Scale Evolvable Dataset for Model Context Protocol Ecosystem and Security Analysis**|Zhiwei Lin et.al.|[2506.23474](http://arxiv.org/abs/2506.23474)|null|
 |**2025-06-29**|**From Prompt Injections to Protocol Exploits: Threats in LLM-Powered AI Agents Workflows**|Mohamed Amine Ferrag et.al.|[2506.23260](http://arxiv.org/abs/2506.23260)|null|
 |**2025-06-18**|**RAS-Eval: A Comprehensive Benchmark for Security Evaluation of LLM Agents in Real-World Environments**|Yuchuan Fu et.al.|[2506.15253](http://arxiv.org/abs/2506.15253)|**[link](https://github.com/lanzer-tree/ras-eval)**|
