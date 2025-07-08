@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2025.07.07
+## Updated on 2025.07.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Security
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**When Chain of Thought is Necessary, Language Models Struggle to Evade Monitors**|Scott Emmons et.al.|[2507.05246](http://arxiv.org/abs/2507.05246)|null|
+|**2025-07-07**|**Trojan Horse Prompting: Jailbreaking Conversational Multimodal Models by Forging Assistant Message**|Wei Duan et.al.|[2507.04673](http://arxiv.org/abs/2507.04673)|null|
+|**2025-07-03**|**From Turing to Tomorrow: The UK's Approach to AI Regulation**|Oliver Ritchie et.al.|[2507.03050](http://arxiv.org/abs/2507.03050)|null|
+|**2025-07-01**|**`For Argument's Sake, Show Me How to Harm Myself!': Jailbreaking LLMs in Suicide and Self-Harm Contexts**|Annika M Schoene et.al.|[2507.02990](http://arxiv.org/abs/2507.02990)|null|
+|**2025-07-01**|**GAF-Guard: An Agentic Framework for Risk Management and Governance in Large Language Models**|Seshu Tirupathi et.al.|[2507.02986](http://arxiv.org/abs/2507.02986)|null|
 |**2025-07-03**|**Moral Responsibility or Obedience: What Do We Want from AI?**|Joseph Boland et.al.|[2507.02788](http://arxiv.org/abs/2507.02788)|null|
 |**2025-07-03**|**Meta SecAlign: A Secure Foundation LLM Against Prompt Injection Attacks**|Sizhe Chen et.al.|[2507.02735](http://arxiv.org/abs/2507.02735)|null|
 |**2025-07-02**|**How Well Does GPT-4o Understand Vision? Evaluating Multimodal Foundation Models on Standard Computer Vision Tasks**|Rahul Ramachandran et.al.|[2507.01955](http://arxiv.org/abs/2507.01955)|null|
@@ -167,6 +172,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Response Attack: Exploiting Contextual Priming to Jailbreak Large Language Models**|Ziqi Miao et.al.|[2507.05248](http://arxiv.org/abs/2507.05248)|null|
+|**2025-07-07**|**Trojan Horse Prompting: Jailbreaking Conversational Multimodal Models by Forging Assistant Message**|Wei Duan et.al.|[2507.04673](http://arxiv.org/abs/2507.04673)|null|
+|**2025-07-06**|**Tail-aware Adversarial Attacks: A Distributional Approach to Efficient LLM Jailbreaking**|Tim Beyer et.al.|[2507.04446](http://arxiv.org/abs/2507.04446)|null|
+|**2025-07-06**|**Attention Slipping: A Mechanistic Understanding of Jailbreak Attacks and Defenses in LLMs**|Xiaomeng Hu et.al.|[2507.04365](http://arxiv.org/abs/2507.04365)|null|
+|**2025-07-04**|**On Jailbreaking Quantized Language Models Through Fault Injection Attacks**|Noureldin Zahran et.al.|[2507.03236](http://arxiv.org/abs/2507.03236)|null|
+|**2025-07-03**|**Adversarial Manipulation of Reasoning Models using Internal Representations**|Kureha Yamaguchi et.al.|[2507.03167](http://arxiv.org/abs/2507.03167)|null|
 |**2025-07-03**|**LLM Hypnosis: Exploiting User Feedback for Unauthorized Knowledge Injection to All Users**|Almog Hilel et.al.|[2507.02850](http://arxiv.org/abs/2507.02850)|null|
 |**2025-07-03**|**Visual Contextual Attack: Jailbreaking MLLMs with Image-Driven Context Injection**|Ziqi Miao et.al.|[2507.02844](http://arxiv.org/abs/2507.02844)|null|
 |**2025-07-03**|**Is Reasoning All You Need? Probing Bias in the Age of Reasoning Language Models**|Riccardo Cantini et.al.|[2507.02799](http://arxiv.org/abs/2507.02799)|null|
