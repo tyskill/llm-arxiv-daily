@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.07.08
+## Updated on 2025.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Security
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**CAVGAN: Unifying Jailbreak and Defense of LLMs via Generative Adversarial Attacks on their Internal Representations**|Xiaohu Li et.al.|[2507.06043](http://arxiv.org/abs/2507.06043)|null|
+|**2025-07-08**|**Domain adaptation of large language models for geotechnical applications**|Lei Fan et.al.|[2507.05613](http://arxiv.org/abs/2507.05613)|null|
 |**2025-07-07**|**When Chain of Thought is Necessary, Language Models Struggle to Evade Monitors**|Scott Emmons et.al.|[2507.05246](http://arxiv.org/abs/2507.05246)|null|
 |**2025-07-07**|**Trojan Horse Prompting: Jailbreaking Conversational Multimodal Models by Forging Assistant Message**|Wei Duan et.al.|[2507.04673](http://arxiv.org/abs/2507.04673)|null|
 |**2025-07-03**|**From Turing to Tomorrow: The UK's Approach to AI Regulation**|Oliver Ritchie et.al.|[2507.03050](http://arxiv.org/abs/2507.03050)|null|
@@ -172,6 +174,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**Hidden Prompts in Manuscripts Exploit AI-Assisted Peer Review**|Zhicheng Lin et.al.|[2507.06185](http://arxiv.org/abs/2507.06185)|null|
+|**2025-07-08**|**CAVGAN: Unifying Jailbreak and Defense of LLMs via Generative Adversarial Attacks on their Internal Representations**|Xiaohu Li et.al.|[2507.06043](http://arxiv.org/abs/2507.06043)|null|
+|**2025-07-08**|**TuneShield: Mitigating Toxicity in Conversational AI while Fine-tuning on Untrusted Data**|Aravind Cheruvu et.al.|[2507.05660](http://arxiv.org/abs/2507.05660)|null|
+|**2025-07-08**|**How Not to Detect Prompt Injections with an LLM**|Sarthak Choudhary et.al.|[2507.05630](http://arxiv.org/abs/2507.05630)|null|
+|**2025-07-07**|**A Systematization of Security Vulnerabilities in Computer Use Agents**|Daniel Jones et.al.|[2507.05445](http://arxiv.org/abs/2507.05445)|null|
 |**2025-07-07**|**Response Attack: Exploiting Contextual Priming to Jailbreak Large Language Models**|Ziqi Miao et.al.|[2507.05248](http://arxiv.org/abs/2507.05248)|null|
 |**2025-07-07**|**Trojan Horse Prompting: Jailbreaking Conversational Multimodal Models by Forging Assistant Message**|Wei Duan et.al.|[2507.04673](http://arxiv.org/abs/2507.04673)|null|
 |**2025-07-06**|**Tail-aware Adversarial Attacks: A Distributional Approach to Efficient LLM Jailbreaking**|Tim Beyer et.al.|[2507.04446](http://arxiv.org/abs/2507.04446)|null|
@@ -443,6 +450,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Unified Framework for Quantum Code Embedding**|Andrew C. Yuan et.al.|[2507.05361](http://arxiv.org/abs/2507.05361)|null|
 |**2025-05-27**|**Semi-supervised Clustering Through Representation Learning of Large-scale EHR Data**|Linshanshan Wang et.al.|[2505.20731](http://arxiv.org/abs/2505.20731)|null|
 |**2025-05-19**|**Towards A Generalist Code Embedding Model Based On Massive Data Synthesis**|Chaofan Li et.al.|[2505.12697](http://arxiv.org/abs/2505.12697)|**[link](https://github.com/flagopen/flagembedding)**|
 |**2025-05-31**|**Improving the Context Length and Efficiency of Code Retrieval for Tracing Security Vulnerability Fixes**|Xueqing Liu et.al.|[2503.22935](http://arxiv.org/abs/2503.22935)|null|
