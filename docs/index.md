@@ -2,16 +2,18 @@
 layout: default
 ---
 
-## Updated on 2025.07.16
+## Updated on 2025.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Security
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**LLMs Encode Harmfulness and Refusal Separately**|Jiachen Zhao et.al.|[2507.11878](http://arxiv.org/abs/2507.11878)|null|
+|**2025-07-09**|**The AI Shadow War: SaaS vs. Edge Computing Architectures**|Rhea Pritham Marpu et.al.|[2507.11545](http://arxiv.org/abs/2507.11545)|null|
 |**2025-07-15**|**Chain of Thought Monitorability: A New and Fragile Opportunity for AI Safety**|Tomek Korbak et.al.|[2507.11473](http://arxiv.org/abs/2507.11473)|null|
 |**2025-07-14**|**3S-Attack: Spatial, Spectral and Semantic Invisible Backdoor Attack Against DNN Models**|Jianyao Yin et.al.|[2507.10733](http://arxiv.org/abs/2507.10733)|null|
-|**2025-07-14**|**From Semantic Web and MAS to Agentic AI: A Unified Narrative of the Web of Agents**|Tatiana Petrova et.al.|[2507.10644](http://arxiv.org/abs/2507.10644)|null|
+|**2025-07-16**|**From Semantic Web and MAS to Agentic AI: A Unified Narrative of the Web of Agents**|Tatiana Petrova et.al.|[2507.10644](http://arxiv.org/abs/2507.10644)|null|
 |**2025-07-14**|**Can You Detect the Difference?**|İsmail Tarım et.al.|[2507.10475](http://arxiv.org/abs/2507.10475)|null|
 |**2025-07-14**|**BlueGlass: A Framework for Composite AI Safety**|Harshal Nandigramwar et.al.|[2507.10106](http://arxiv.org/abs/2507.10106)|null|
 |**2025-07-13**|**Measuring What Matters: A Framework for Evaluating Safety Risks in Real-World LLM Applications**|Jia Yi Goh et.al.|[2507.09820](http://arxiv.org/abs/2507.09820)|null|
@@ -186,6 +188,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Exploiting Jailbreaking Vulnerabilities in Generative AI to Bypass Ethical Safeguards for Facilitating Phishing Attacks**|Rina Mishra et.al.|[2507.12185](http://arxiv.org/abs/2507.12185)|null|
+|**2025-07-16**|**LLMs Encode Harmfulness and Refusal Separately**|Jiachen Zhao et.al.|[2507.11878](http://arxiv.org/abs/2507.11878)|null|
+|**2025-07-15**|**Jailbreak-Tuning: Models Efficiently Learn Jailbreak Susceptibility**|Brendan Murphy et.al.|[2507.11630](http://arxiv.org/abs/2507.11630)|null|
 |**2025-07-14**|**ARMOR: Aligning Secure and Safe Large Language Models via Meticulous Reasoning**|Zhengyue Zhao et.al.|[2507.11500](http://arxiv.org/abs/2507.11500)|null|
 |**2025-07-15**|**The Devil behind the mask: An emergent safety vulnerability of Diffusion LLMs**|Zichen Wen et.al.|[2507.11097](http://arxiv.org/abs/2507.11097)|null|
 |**2025-07-15**|**SEALGuard: Safeguarding the Multilingual Conversations in Southeast Asian Languages for LLM Software Systems**|Wenliang Shan et.al.|[2507.08898](http://arxiv.org/abs/2507.08898)|null|
