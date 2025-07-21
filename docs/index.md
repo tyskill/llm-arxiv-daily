@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.07.20
+## Updated on 2025.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Security
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Fake or Real: The Impostor Hunt in Texts for Space Operations**|Agata Kaczmarek et.al.|[2507.13508](http://arxiv.org/abs/2507.13508)|null|
 |**2025-07-17**|**Manipulation Attacks by Misaligned AI: Risk Analysis and Safety Case Framework**|Rishane Dassanayake et.al.|[2507.12872](http://arxiv.org/abs/2507.12872)|null|
 |**2025-07-16**|**LLMs Encode Harmfulness and Refusal Separately**|Jiachen Zhao et.al.|[2507.11878](http://arxiv.org/abs/2507.11878)|null|
 |**2025-07-09**|**The AI Shadow War: SaaS vs. Edge Computing Architectures**|Rhea Pritham Marpu et.al.|[2507.11545](http://arxiv.org/abs/2507.11545)|null|
@@ -189,6 +190,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**Innocence in the Crossfire: Roles of Skip Connections in Jailbreaking Visual Language Models**|Palash Nandi et.al.|[2507.13761](http://arxiv.org/abs/2507.13761)|null|
+|**2025-07-18**|**TopicAttack: An Indirect Prompt Injection Attack via Topic Transition**|Yulin Chen et.al.|[2507.13686](http://arxiv.org/abs/2507.13686)|null|
+|**2025-07-17**|**Paper Summary Attack: Jailbreaking LLMs through LLM Safety Papers**|Liang Lin et.al.|[2507.13474](http://arxiv.org/abs/2507.13474)|null|
 |**2025-07-17**|**Prompt Injection 2.0: Hybrid AI Threats**|Jeremy McHugh et.al.|[2507.13169](http://arxiv.org/abs/2507.13169)|null|
 |**2025-07-17**|**MAD-Spear: A Conformity-Driven Prompt Injection Attack on Multi-Agent Debate Systems**|Yu Cui et.al.|[2507.13038](http://arxiv.org/abs/2507.13038)|null|
 |**2025-07-16**|**Exploiting Jailbreaking Vulnerabilities in Generative AI to Bypass Ethical Safeguards for Facilitating Phishing Attacks**|Rina Mishra et.al.|[2507.12185](http://arxiv.org/abs/2507.12185)|null|
