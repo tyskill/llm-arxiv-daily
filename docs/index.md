@@ -2,15 +2,17 @@
 layout: default
 ---
 
-## Updated on 2025.07.22
+## Updated on 2025.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Security
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Depth Gives a False Sense of Privacy: LLM Internal States Inversion**|Tian Dong et.al.|[2507.16372](http://arxiv.org/abs/2507.16372)|null|
+|**2025-07-19**|**Combining Cost-Constrained Runtime Monitors for AI Safety**|Tim Tian Hua et.al.|[2507.15886](http://arxiv.org/abs/2507.15886)|null|
 |**2025-07-19**|**When Autonomy Goes Rogue: Preparing for Risks of Multi-Agent Collusion in Social Systems**|Qibing Ren et.al.|[2507.14660](http://arxiv.org/abs/2507.14660)|null|
-|**2025-07-16**|**Mapping the Parasocial AI Market: User Trends, Engagement and Risks**|Zilan Qian et.al.|[2507.14226](http://arxiv.org/abs/2507.14226)|null|
+|**2025-07-22**|**Mapping the Parasocial AI Market: User Trends, Engagement and Risks**|Zilan Qian et.al.|[2507.14226](http://arxiv.org/abs/2507.14226)|null|
 |**2025-07-15**|**Mitigating Trojanized Prompt Chains in Educational LLM Use Cases: Experimental Findings and Detection Tool Design**|Richard M. Charles et.al.|[2507.14207](http://arxiv.org/abs/2507.14207)|null|
 |**2025-07-21**|**Fake or Real: The Impostor Hunt in Texts for Space Operations**|Agata Kaczmarek et.al.|[2507.13508](http://arxiv.org/abs/2507.13508)|null|
 |**2025-07-17**|**Manipulation Attacks by Misaligned AI: Risk Analysis and Safety Case Framework**|Rishane Dassanayake et.al.|[2507.12872](http://arxiv.org/abs/2507.12872)|null|
