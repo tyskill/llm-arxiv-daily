@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.25
+## Updated on 2026.05.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Security
